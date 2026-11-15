@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文渊阁</title>
+    <link rel="icon" type="image/png" sizes="64x64" href="/static/img/favicon.png">
+    <link rel="apple-touch-icon" href="/static/img/apple-touch-icon.png">
+    <link rel="stylesheet" href="/static/css/style.css?v=20261113d">
+</head>
+<body>
+    <div id="app">
+        <header class="header">
+            <div class="header-inner">
+                <div class="logo">
+                    <img class="logo-icon" src="/static/img/logo.png" alt="文渊阁">
+                    <span class="logo-text">文渊阁</span>
+                </div>
+                <nav class="nav-tabs">
+                    <button class="nav-tab active" data-tab="character">
+                        <span class="tab-icon">字</span>
+                        <span class="tab-label">汉字查询</span>
+                    </button>
+                    <button class="nav-tab" data-tab="word">
+                        <span class="tab-icon">词</span>
+                        <span class="tab-label">词语成语</span>
+                    </button>
+                    <button class="nav-tab" data-tab="dictation">
+                        <span class="tab-icon">默</span>
+                        <span class="tab-label">情景默写</span>
+                    </button>
+                    <button class="nav-tab" data-tab="classical">
+                        <span class="tab-icon">文</span>
+                        <span class="tab-label">文言实词虚词</span>
+                    </button>
+                    <button class="nav-tab" data-tab="sentence">
+                        <span class="tab-icon">病</span>
+                        <span class="tab-label">改病句</span>
+                    </button>
+                    <button class="nav-tab" data-tab="typo">
+                        <span class="tab-icon">正</span>
+                        <span class="tab-label">找错别字</span>
+                    </button>
+                </nav>
+                <div class="header-date" id="headerDate"></div>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <section class="tab-panel active" id="panel-character">
+                <div class="panel-header">
+                    <h2>汉字查询</h2>
+                </div>
+                <div class="search-bar">
+                    <input type="text" id="charInput" class="search-input" placeholder="输入单个汉字，如：春、月、国" maxlength="1">
+                    <button class="btn btn-primary" id="btnSearchChar">查询</button>
+                </div>
+                <div class="char-result" id="charResult">
+                    <div class="empty-placeholder">输入汉字开始查询</div>
+                </div>
+            </section>
+
+            <section class="tab-panel" id="panel-word">
+                <div class="panel-header">
+                    <h2>词语成语</h2>
+                    <div class="panel-info" id="wordCount"></div>
+                </div>
+                <div class="search-bar">
+                    <input type="text" id="wordSearch" class="search-input" placeholder="搜索词语、成语、释义、语境...">
+                    <select id="wordSentiment" class="search-select">
+                        <option value="">全部感情色彩</option>
+                        <option value="褒义词">褒义词</option>
+                        <option value="贬义词">贬义词</option>
+                        <option value="中性词">中性词</option>
+                    </select>
+                    <select id="wordType" class="search-select">
+                        <option value="">全部类型</option>
+                        <option value="成语">成语</option>
+                        <option value="词语">词语</option>
+                    </select>
+                    <button class="btn btn-primary" id="btnSearchWord">搜索</button>
+                    <button class="btn btn-outline" id="btnResetWord">查看全部</button>
+                </div>
+                <div class="word-list" id="wordList">
+                    <div class="loading-placeholder">加载中...</div>
+                </div>
+                <div class="pagination" id="wordPagination"></div>
+            </section>
+
+            <section class="tab-panel" id="panel-dictation">
+                <div class="panel-header">
+                    <h2>情景默写</h2>
+                    <div class="panel-info" id="dictationInfo"></div>
+                </div>
+                <div class="dictation-level-tabs">
+                    <button class="level-tab active" data-dict-mode="practice">默写练习</button>
+                    <button class="level-tab" data-dict-mode="manage">题库管理</button>
+                </div>
+                <div id="dictationPracticeMode">
+                    <div class="dictation-level-tabs" style="margin-top:12px;">
+                        <button class="level-tab active" data-level="初中">初中必背</button>
+                        <button class="level-tab" data-level="高中">高中必背</button>
+                    </div>
+                    <div class="dictation-control-bar">
+                        <div class="control-left">
+                            <label class="control-label">题目数量：</label>
+                            <select id="dictationCount" class="search-select">
+                                <option value="5">5 题</option>
+                                <option value="10" selected>10 题</option>
+                                <option value="15">15 题</option>
+                                <option value="20">20 题</option>
+                                <option value="30">30 题</option>
+                            </select>
+                        </div>
+                        <div class="control-right">
+                            <button class="btn btn-outline" id="btnShowAnswers">显示/隐藏答案</button>
+                            <button class="btn btn-primary" id="btnNewDictation">开始默写</button>
+                        </div>
+                    </div>
+                    <div class="dictation-list" id="dictationList">
+                        <div class="empty-placeholder">选择学段后点击"开始默写"出题</div>
+                    </div>
+                    <div class="dictation-result" id="dictationResult" style="display:none;">
+                        <div class="dictation-result-header">
+                            <span class="result-score" id="resultScore"></span>
+                            <span class="result-detail" id="resultDetail"></span>
+                        </div>
+                    </div>
+                </div>
+                <div id="dictationManageMode" style="display:none;">
+                    <div class="dictation-add-form">
+                        <h3 class="form-title">添加新题目</h3>
+                        <div class="form-row">
+                            <label class="form-label">级别</label>
+                            <select id="newQLevel" class="search-select">
+                                <option value="初中">初中</option>
+                                <option value="高中">高中</option>
+                            </select>
+                            <label class="form-label" style="margin-left:12px;">篇名</label>
+                            <input type="text" id="newQTitle" class="form-input" placeholder="如：劝学">
+                            <label class="form-label" style="margin-left:12px;">作者</label>
+                            <input type="text" id="newQAuthor" class="form-input" placeholder="如：荀子">
+                        </div>
+                        <div class="form-row">
+                            <label class="form-label">朝代</label>
+                            <input type="text" id="newQDynasty" class="form-input" placeholder="如：先秦">
+                            <label class="form-label" style="margin-left:12px;">提示</label>
+                            <input type="text" id="newQHint" class="form-input" placeholder="提示信息（选填）">
+                        </div>
+                        <div class="form-row">
+                            <label class="form-label">题目情境</label>
+                            <textarea id="newQContext" class="form-textarea" placeholder="如：荀子《劝学》中强调积累重要性的句子是：______，______。"></textarea>
+                        </div>
+                        <div class="form-row">
+                            <label class="form-label">正确答案</label>
+                            <textarea id="newQAnswer" class="form-textarea" placeholder="如：积土成山，风雨兴焉"></textarea>
+                        </div>
+                        <div class="form-row">
+                            <button class="btn btn-primary" id="btnAddQuestion">添加题目</button>
+                        </div>
+                    </div>
+                    <div class="dictation-bank-list">
+                        <div class="bank-list-header">
+                            <h3 class="form-title">题库列表</h3>
+                            <div class="bank-search-bar">
+                                <select id="bankLevel" class="search-select">
+                                    <option value="">全部级别</option>
+                                    <option value="初中">初中</option>
+                                    <option value="高中">高中</option>
+                                </select>
+                                <input type="text" id="bankSearch" class="search-input" placeholder="搜篇名、作者、内容...">
+                                <button class="btn btn-primary" id="btnSearchBank">搜索</button>
+                            </div>
+                        </div>
+                        <div class="bank-stats" id="bankStats"></div>
+                        <div class="bank-list" id="bankList"></div>
+                        <div class="pagination" id="bankPagination"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="tab-panel" id="panel-classical">
+                <div class="panel-header">
+                    <h2>文言实词虚词</h2>
+                    <div class="panel-info" id="classicalInfo"></div>
+                </div>
+                <div class="dictation-level-tabs">
+                    <button class="level-tab active" data-cl-mode="dict">词典查阅</button>
+                    <button class="level-tab" data-cl-mode="quiz">自测出题</button>
+                </div>
+                <div id="classicalDictMode">
+                    <div class="search-bar">
+                        <input type="text" id="classicalSearch" class="search-input" placeholder="搜实词、虚词、拼音或释义...">
+                        <select id="classicalType" class="search-select">
+                            <option value="">全部类型</option>
+                            <option value="实词">实词</option>
+                            <option value="虚词">虚词</option>
+                        </select>
+                        <button class="btn btn-primary" id="btnSearchClassical">搜索</button>
+                        <button class="btn btn-outline" id="btnResetClassical">查看全部</button>
+                    </div>
+                    <div class="classical-list" id="classicalList">
+                        <div class="loading-placeholder">加载中...</div>
+                    </div>
+                    <div class="pagination" id="classicalPagination"></div>
+                </div>
+                <div id="classicalQuizMode" style="display:none;">
+                    <div class="dictation-control-bar">
+                        <div class="control-left">
+                            <label class="control-label">类型：</label>
+                            <select id="quizType" class="search-select">
+                                <option value="">混合题型</option>
+                                <option value="meaning_choice">释义选择</option>
+                                <option value="usage_choice">用法选择</option>
+                                <option value="fill_blank">填空选择</option>
+                            </select>
+                            <label class="control-label" style="margin-left:12px;">词类：</label>
+                            <select id="quizWordType" class="search-select">
+                                <option value="">实词+虚词</option>
+                                <option value="实词">仅实词</option>
+                                <option value="虚词">仅虚词</option>
+                            </select>
+                            <label class="control-label" style="margin-left:12px;">题数：</label>
+                            <select id="quizCount" class="search-select">
+                                <option value="5">5 题</option>
+                                <option value="10" selected>10 题</option>
+                                <option value="15">15 题</option>
+                                <option value="20">20 题</option>
+                            </select>
+                        </div>
+                        <div class="control-right">
+                            <button class="btn btn-primary" id="btnStartQuiz">开始自测</button>
+                        </div>
+                    </div>
+                    <div class="classical-quiz-list" id="classicalQuizList">
+                        <div class="empty-placeholder">选择类型后点击"开始自测"出题</div>
+                    </div>
+                    <div class="dictation-result" id="quizResult" style="display:none;">
+                        <div class="dictation-result-header">
+                            <span class="result-score" id="quizScore"></span>
+                            <span class="result-detail" id="quizDetail"></span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="tab-panel" id="panel-sentence">
+                <div class="panel-header">
+                    <h2>改病句</h2>
+                    <div class="panel-actions">
+                        <button class="btn btn-primary" id="btnSentenceQuiz">开始自测</button>
+                    </div>
+                </div>
+                <div class="type-cards" id="sentenceTypes"></div>
+                <div class="quiz-area" id="sentenceQuizArea" style="display:none;">
+                    <div class="quiz-area-header">
+                        <span class="quiz-area-title">病句修改自测</span>
+                        <button class="btn btn-secondary" id="btnSentenceNext">换一组</button>
+                    </div>
+                    <div id="sentenceQuizList"></div>
+                </div>
+            </section>
+
+            <section class="tab-panel" id="panel-typo">
+                <div class="panel-header">
+                    <h2>找错别字</h2>
+                    <div class="panel-actions">
+                        <button class="btn btn-primary" id="btnTypoQuiz">开始自测</button>
+                    </div>
+                </div>
+                <div class="type-cards" id="typoTypes"></div>
+                <div class="quiz-area" id="typoQuizArea" style="display:none;">
+                    <div class="quiz-area-header">
+                        <span class="quiz-area-title">语段找错别字自测</span>
+                        <span class="quiz-area-score" id="typoScore"></span>
+                        <button class="btn btn-secondary" id="btnTypoNext">换一组</button>
+                    </div>
+                    <div id="typoQuizList"></div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal" id="modalContent">
+            <button class="modal-close" id="modalClose">&times;</button>
+            <div class="modal-body" id="modalBody"></div>
+        </div>
+    </div>
+
+    <script src="/static/js/app.js?v=20261113d"></script>
+</body>
+</html>

@@ -1,0 +1,5427 @@
+[
+  {
+    "id": "xuci_之",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "作《师说》以贻之",
+            "source": "韩愈《师说》",
+            "translation": "写了《师说》来赠给他"
+          },
+          {
+            "sentence": "巫医乐师百工之人",
+            "source": "韩愈《师说》",
+            "translation": "巫医、乐师和各种工匠这些人"
+          }
+        ],
+        "meaning": "第三人称代词，他/她/它/他们",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "古之学者必有师",
+            "source": "韩愈《师说》",
+            "translation": "古代求学的人一定有老师"
+          },
+          {
+            "sentence": "赤壁之战之胜",
+            "source": "历史",
+            "translation": "赤壁之战的胜利"
+          }
+        ],
+        "meaning": "结构助词，的",
+        "usage": "助词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "师道之不传也久矣",
+            "source": "韩愈《师说》",
+            "translation": "从师的风尚不流传已经很久了"
+          }
+        ],
+        "meaning": "取消句子独立性",
+        "usage": "助词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "吾欲之南海",
+            "source": "《为学》",
+            "translation": "我想要去南海"
+          },
+          {
+            "sentence": "项伯乃夜驰之沛公军",
+            "source": "司马迁《鸿门宴》",
+            "translation": "项伯于是连夜骑马到沛公军营"
+          }
+        ],
+        "meaning": "往，到……去",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "句读之不知，惑之不解",
+            "source": "韩愈《师说》",
+            "translation": "不明句读，不能解惑"
+          }
+        ],
+        "meaning": "宾语前置的标志",
+        "usage": "助词"
+      }
+    ],
+    "pinyin": "zhī",
+    "type": "虚词",
+    "word": "之"
+  },
+  {
+    "id": "xuci_其",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "工欲善其事，必先利其器",
+            "source": "《论语》",
+            "translation": "工匠要想做好他的事，必先磨好他的工具"
+          }
+        ],
+        "meaning": "他的/它的/他们的",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "于乱石间择其一二扣之",
+            "source": "苏轼《石钟山记》",
+            "translation": "在乱石中选其中的一两块敲击它"
+          }
+        ],
+        "meaning": "那/那些/其中",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "其皆出于此乎",
+            "source": "韩愈《师说》",
+            "translation": "大概都是出于这个原因吧"
+          }
+        ],
+        "meaning": "表推测，大概/或许",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "其真不知马也",
+            "source": "韩愈《马说》",
+            "translation": "恐怕是真的不识千里马吧"
+          }
+        ],
+        "meaning": "表反问，难道",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "其业有不精，德有不成者",
+            "source": "宋濂《送东阳马生序》",
+            "translation": "如果学业有不精、品德有不成的人"
+          }
+        ],
+        "meaning": "表假设，如果",
+        "usage": "连词"
+      }
+    ],
+    "pinyin": "qí",
+    "type": "虚词",
+    "word": "其"
+  },
+  {
+    "id": "xuci_而",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "蟹六跪而二螯",
+            "source": "荀子《劝学》",
+            "translation": "螃蟹有六条腿和两只钳"
+          }
+        ],
+        "meaning": "表并列，又/而且",
+        "usage": "连词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "拔剑切而啖之",
+            "source": "司马迁《鸿门宴》",
+            "translation": "拔剑切了就吃"
+          }
+        ],
+        "meaning": "表承接，就/便",
+        "usage": "连词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "青，取之于蓝，而青于蓝",
+            "source": "荀子《劝学》",
+            "translation": "靛青从蓝草中取得，却比蓝草更青"
+          }
+        ],
+        "meaning": "表转折，却/但是",
+        "usage": "连词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "吾尝跂而望矣",
+            "source": "荀子《劝学》",
+            "translation": "我曾经踮起脚跟远望"
+          }
+        ],
+        "meaning": "表修饰，地",
+        "usage": "连词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "人而无信，不知其可",
+            "source": "《论语》",
+            "translation": "一个人如果不讲信用，不知道他怎么可以"
+          }
+        ],
+        "meaning": "表假设，如果",
+        "usage": "连词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "而翁归，自与汝复算耳",
+            "source": "蒲松龄《促织》",
+            "translation": "你父亲回来，自然会跟你再算账"
+          }
+        ],
+        "meaning": "第二人称，你/你的",
+        "usage": "代词"
+      }
+    ],
+    "pinyin": "ér",
+    "type": "虚词",
+    "word": "而"
+  },
+  {
+    "id": "xuci_则",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "学而不思则罔",
+            "source": "《论语》",
+            "translation": "只学习不思考就会迷惑"
+          }
+        ],
+        "meaning": "表承接，就/便",
+        "usage": "连词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "于其身也，则耻师焉",
+            "source": "韩愈《师说》",
+            "translation": "对于他自己，却以从师为耻"
+          }
+        ],
+        "meaning": "表转折，却/然而",
+        "usage": "连词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "入则无法家拂士",
+            "source": "《孟子》",
+            "translation": "在国内如果没有守法度的大臣和辅佐君王的贤士"
+          }
+        ],
+        "meaning": "表假设，那么/就",
+        "usage": "连词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "此则岳阳楼之大观也",
+            "source": "范仲淹《岳阳楼记》",
+            "translation": "这就是岳阳楼的壮观景象"
+          }
+        ],
+        "meaning": "表并列，就/分述",
+        "usage": "连词"
+      }
+    ],
+    "pinyin": "zé",
+    "type": "虚词",
+    "word": "则"
+  },
+  {
+    "id": "xuci_以",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "以子之矛，陷子之盾",
+            "source": "《韩非子》",
+            "translation": "用你的矛，刺你的盾"
+          }
+        ],
+        "meaning": "用/拿/凭",
+        "usage": "介词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "以其求思之深而无不在也",
+            "source": "王安石《游褒禅山记》",
+            "translation": "因为他们探究思考得深而且无处不在"
+          }
+        ],
+        "meaning": "因为/由于",
+        "usage": "介词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "余以乾隆三十九年十二月",
+            "source": "姚鼐《登泰山记》",
+            "translation": "我在乾隆三十九年十二月"
+          }
+        ],
+        "meaning": "在/从",
+        "usage": "介词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "木欣欣以向荣",
+            "source": "陶渊明《归去来兮辞》",
+            "translation": "树木欣欣向荣"
+          }
+        ],
+        "meaning": "相当于'而'，表修饰或承接",
+        "usage": "连词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "皆以美于徐公",
+            "source": "《邹忌讽齐王纳谏》",
+            "translation": "都认为比徐公美"
+          }
+        ],
+        "meaning": "认为/以为",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "yǐ",
+    "type": "虚词",
+    "word": "以"
+  },
+  {
+    "id": "xuci_于",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "战于长勺",
+            "source": "《左传·曹刿论战》",
+            "translation": "在长勺作战"
+          }
+        ],
+        "meaning": "在/到/从",
+        "usage": "介词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "贫者语于富者曰",
+            "source": "彭端淑《为学》",
+            "translation": "穷人对富人说"
+          }
+        ],
+        "meaning": "对/对于",
+        "usage": "介词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "苛政猛于虎也",
+            "source": "《礼记》",
+            "translation": "苛酷的政令比老虎还凶猛"
+          }
+        ],
+        "meaning": "比",
+        "usage": "介词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "故内惑于郑袖，外欺于张仪",
+            "source": "司马迁《屈原列传》",
+            "translation": "所以在内被郑袖迷惑，在外被张仪欺骗"
+          }
+        ],
+        "meaning": "被",
+        "usage": "介词"
+      }
+    ],
+    "pinyin": "yú",
+    "type": "虚词",
+    "word": "于"
+  },
+  {
+    "id": "xuci_为",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "可以为师矣",
+            "source": "《论语》",
+            "translation": "可以担任老师了"
+          },
+          {
+            "sentence": "冰，水为之，而寒于水",
+            "source": "荀子《劝学》",
+            "translation": "冰是水变成的，却比水寒冷"
+          }
+        ],
+        "meaning": "做/担任/成为",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "窃为大王不取也",
+            "source": "司马迁《鸿门宴》",
+            "translation": "私下认为大王不该这样做"
+          }
+        ],
+        "meaning": "认为/以为",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "吾属今为之虏矣",
+            "source": "司马迁《鸿门宴》",
+            "translation": "我们这些人现在就要被他俘虏了"
+          }
+        ],
+        "meaning": "被",
+        "usage": "介词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "旦日飨士卒，为击破沛公军",
+            "source": "司马迁《鸿门宴》",
+            "translation": "明天犒劳士兵，替我打败沛公的军队"
+          }
+        ],
+        "meaning": "替/给",
+        "usage": "介词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "何辞为",
+            "source": "司马迁《鸿门宴》",
+            "translation": "还辞谢什么呢"
+          }
+        ],
+        "meaning": "表疑问或反问",
+        "usage": "语气词"
+      }
+    ],
+    "pinyin": "wéi",
+    "type": "虚词",
+    "word": "为"
+  },
+  {
+    "id": "xuci_何",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "大王来何操",
+            "source": "司马迁《鸿门宴》",
+            "translation": "大王来时带了什么"
+          }
+        ],
+        "meaning": "什么",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "何不按兵束甲",
+            "source": "司马迁《赤壁之战》",
+            "translation": "为什么不放下武器捆起铠甲"
+          }
+        ],
+        "meaning": "怎么/为什么",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "豫州今欲何至",
+            "source": "司马迁《赤壁之战》",
+            "translation": "豫州现在想要到哪里去"
+          }
+        ],
+        "meaning": "哪里/什么地方",
+        "usage": "代词"
+      }
+    ],
+    "pinyin": "hé",
+    "type": "虚词",
+    "word": "何"
+  },
+  {
+    "id": "xuci_乃",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "乃入据陈",
+            "source": "司马迁《陈涉世家》",
+            "translation": "于是入城占据了陈县"
+          },
+          {
+            "sentence": "度我至军中，公乃入",
+            "source": "司马迁《鸿门宴》",
+            "translation": "估计我到军营中，你再进去"
+          }
+        ],
+        "meaning": "于是/就/才",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "乃不知有汉，无论魏晋",
+            "source": "陶渊明《桃花源记》",
+            "translation": "竟然不知道有汉朝，更不用说魏晋了"
+          }
+        ],
+        "meaning": "却/竟然",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "家祭无忘告乃翁",
+            "source": "陆游《示儿》",
+            "translation": "家祭时不要忘了告诉你的父亲"
+          }
+        ],
+        "meaning": "你/你的",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "当立者乃公子扶苏",
+            "source": "司马迁《陈涉世家》",
+            "translation": "应当立为皇帝的是公子扶苏"
+          }
+        ],
+        "meaning": "是/就是",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "nǎi",
+    "type": "虚词",
+    "word": "乃"
+  },
+  {
+    "id": "xuci_若",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "若为佣耕，何富贵也",
+            "source": "司马迁《陈涉世家》",
+            "translation": "你是个雇农，怎么富贵呢"
+          }
+        ],
+        "meaning": "你/你们",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "若止印二三本，未为简易",
+            "source": "沈括《活板》",
+            "translation": "如果只印两三本，不算简便"
+          }
+        ],
+        "meaning": "如果/假如",
+        "usage": "连词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "以若所为，求若所欲",
+            "source": "《孟子》",
+            "translation": "用这样的做法，去追求你想得到的东西"
+          }
+        ],
+        "meaning": "如此/这样",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "若夫霪雨霏霏",
+            "source": "范仲淹《岳阳楼记》",
+            "translation": "至于连绵的雨繁密地下着"
+          }
+        ],
+        "meaning": "至/至于",
+        "usage": "连词"
+      }
+    ],
+    "pinyin": "ruò",
+    "type": "虚词",
+    "word": "若"
+  },
+  {
+    "id": "xuci_且",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "且庸人尚羞之",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "况且普通人尚且以此为羞"
+          }
+        ],
+        "meaning": "又/而且/并且",
+        "usage": "连词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "以为且噬己也",
+            "source": "柳宗元《黔之驴》",
+            "translation": "以为将要咬自己了"
+          }
+        ],
+        "meaning": "将要/快要",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "存者且偷生",
+            "source": "杜甫《石壕吏》",
+            "translation": "活着的人暂且苟且偷生"
+          }
+        ],
+        "meaning": "暂且/姑且",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "臣死且不避，卮酒安足辞",
+            "source": "司马迁《鸿门宴》",
+            "translation": "我死尚且不避，一杯酒怎么值得推辞"
+          }
+        ],
+        "meaning": "尚且",
+        "usage": "副词"
+      }
+    ],
+    "pinyin": "qiě",
+    "type": "虚词",
+    "word": "且"
+  },
+  {
+    "id": "xuci_虽",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "虽才高于世，而无骄尚之情",
+            "source": "范晔《张衡传》",
+            "translation": "虽然才华比世人高，却没有骄傲自大的神情"
+          }
+        ],
+        "meaning": "虽然/尽管",
+        "usage": "连词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "虽千万人吾往矣",
+            "source": "《孟子》",
+            "translation": "即使有千万人我也勇往直前"
+          }
+        ],
+        "meaning": "即使",
+        "usage": "连词"
+      }
+    ],
+    "pinyin": "suī",
+    "type": "虚词",
+    "word": "虽"
+  },
+  {
+    "id": "xuci_然",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "不复挺者，輮使之然也",
+            "source": "荀子《劝学》",
+            "translation": "不再挺直的原因，是火烤使它这样"
+          }
+        ],
+        "meaning": "这样/如此",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "吴广以为然",
+            "source": "司马迁《陈涉世家》",
+            "translation": "吴广认为是对的"
+          }
+        ],
+        "meaning": "对的/正确的",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "然不自意能先入关破秦",
+            "source": "司马迁《鸿门宴》",
+            "translation": "然而没想到自己能先入关攻破秦国"
+          }
+        ],
+        "meaning": "然而/但是",
+        "usage": "连词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "填然鼓之",
+            "source": "《孟子》",
+            "translation": "咚咚地击鼓"
+          }
+        ],
+        "meaning": "形容词词尾，……的样子",
+        "usage": "助词"
+      }
+    ],
+    "pinyin": "rán",
+    "type": "虚词",
+    "word": "然"
+  },
+  {
+    "id": "xuci_但",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "但闻燕山胡骑鸣啾啾",
+            "source": "《木兰诗》",
+            "translation": "只听到燕山胡人的战马嘶鸣声"
+          },
+          {
+            "sentence": "但微颔之",
+            "source": "欧阳修《卖油翁》",
+            "translation": "只是微微点了点头"
+          }
+        ],
+        "meaning": "只/仅/只是",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "但欲求死，不复顾利害",
+            "source": "文天祥《〈指南录〉后序》",
+            "translation": "但是只想求死，不再考虑利害"
+          }
+        ],
+        "meaning": "但是/可是",
+        "usage": "连词"
+      }
+    ],
+    "pinyin": "dàn",
+    "type": "虚词",
+    "word": "但"
+  },
+  {
+    "id": "xuci_焉",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "积水成渊，蛟龙生焉",
+            "source": "荀子《劝学》",
+            "translation": "积水成为深池，蛟龙就在那里生长"
+          }
+        ],
+        "meaning": "相当于'于之'，在那里/对它",
+        "usage": "兼词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "犹且从师而问焉",
+            "source": "韩愈《师说》",
+            "translation": "尚且跟从老师向他们请教"
+          }
+        ],
+        "meaning": "相当于'之'，他/它",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "未知生，焉知死",
+            "source": "《论语》",
+            "translation": "连生都不了解，怎么了解死"
+          }
+        ],
+        "meaning": "怎么/哪里",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "万钟于我何加焉",
+            "source": "《孟子》",
+            "translation": "优厚的俸禄对我有什么益处呢"
+          }
+        ],
+        "meaning": "表陈述或疑问语气",
+        "usage": "语气词"
+      }
+    ],
+    "pinyin": "yān",
+    "type": "虚词",
+    "word": "焉"
+  },
+  {
+    "id": "xuci_乎",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "吾师道也，夫庸知其年之先后生于吾乎",
+            "source": "韩愈《师说》",
+            "translation": "我学的是道理，哪里管他比我先出生还是后出生呢"
+          }
+        ],
+        "meaning": "表疑问/反问，吗/呢",
+        "usage": "语气词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "其皆出于此乎",
+            "source": "韩愈《师说》",
+            "translation": "大概都是出于这个原因吧"
+          }
+        ],
+        "meaning": "表感叹/推测，啊/吧",
+        "usage": "语气词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "生乎吾前",
+            "source": "韩愈《师说》",
+            "translation": "出生在我前面"
+          }
+        ],
+        "meaning": "相当于'于'，在/比",
+        "usage": "介词"
+      }
+    ],
+    "pinyin": "hū",
+    "type": "虚词",
+    "word": "乎"
+  },
+  {
+    "id": "xuci_与",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "吾与汝俱幼",
+            "source": "韩愈《祭十二郎文》",
+            "translation": "我和你都还小"
+          }
+        ],
+        "meaning": "和/同/跟",
+        "usage": "连词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "竖子不足与谋",
+            "source": "司马迁《鸿门宴》",
+            "translation": "这小子不值得同他谋划"
+          }
+        ],
+        "meaning": "同/跟/和",
+        "usage": "介词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "则与一生彘肩",
+            "source": "司马迁《鸿门宴》",
+            "translation": "就给他一条生猪腿"
+          }
+        ],
+        "meaning": "给予/授予",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "与嬴而不助五国也",
+            "source": "苏洵《六国论》",
+            "translation": "与秦国交好而不帮助五国"
+          }
+        ],
+        "meaning": "结交/亲附",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "yǔ",
+    "type": "虚词",
+    "word": "与"
+  },
+  {
+    "id": "xuci_所",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "道之所存，师之所存也",
+            "source": "韩愈《师说》",
+            "translation": "道理存在的地方，就是老师存在的地方"
+          }
+        ],
+        "meaning": "与动词组成'所'字结构",
+        "usage": "助词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "又间令吴广之次所旁丛祠中",
+            "source": "司马迁《陈涉世家》",
+            "translation": "又暗中让吴广到驻地旁的丛林庙中"
+          }
+        ],
+        "meaning": "处所/地方",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "师者，所以传道受业解惑也",
+            "source": "韩愈《师说》",
+            "translation": "老师，是用来传授道理、教授学业、解答疑难的人"
+          }
+        ],
+        "meaning": "所以……",
+        "usage": "固定结构"
+      }
+    ],
+    "pinyin": "suǒ",
+    "type": "虚词",
+    "word": "所"
+  },
+  {
+    "id": "shici_爱",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "爱其子，择师而教之",
+            "source": "韩愈《师说》",
+            "translation": "喜爱他的孩子，选择老师来教导他"
+          }
+        ],
+        "meaning": "喜爱/爱护",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "齐国虽褊小，吾何爱一牛",
+            "source": "《孟子》",
+            "translation": "齐国虽然狭小，我怎么吝惜一头牛"
+          }
+        ],
+        "meaning": "吝惜/舍不得",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "若爱重伤，则如勿伤",
+            "source": "《左传》",
+            "translation": "如果怜悯二度受伤的敌人，不如一开始就不伤害"
+          }
+        ],
+        "meaning": "怜悯/同情",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "ài",
+    "type": "实词",
+    "word": "爱"
+  },
+  {
+    "id": "shici_安",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "然后知生于忧患，而死于安乐也",
+            "source": "《孟子》",
+            "translation": "这以后才知道忧愁患害能使人生存发展，安逸享乐能使人走向灭亡"
+          }
+        ],
+        "meaning": "安定/安全/安稳",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "衣食所安，弗敢专也",
+            "source": "《左传·曹刿论战》",
+            "translation": "衣食这类用来养生的东西，不敢独自享用"
+          }
+        ],
+        "meaning": "安身/养生",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "安能摧眉折腰事权贵",
+            "source": "李白《梦游天姥吟留别》",
+            "translation": "怎么能低眉弯腰去侍奉权贵"
+          },
+          {
+            "sentence": "燕雀安知鸿鹄之志哉",
+            "source": "司马迁《陈涉世家》",
+            "translation": "燕雀怎么能知道天鹅的志向呢"
+          }
+        ],
+        "meaning": "怎么/哪里",
+        "usage": "疑问代词"
+      }
+    ],
+    "pinyin": "ān",
+    "type": "实词",
+    "word": "安"
+  },
+  {
+    "id": "shici_被",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "信而见疑，忠而被谤",
+            "source": "司马迁《屈原列传》",
+            "translation": "诚信却被怀疑，忠诚却被诽谤"
+          }
+        ],
+        "meaning": "表被动",
+        "usage": "介词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "世之有饥穰，天之行也，禹汤被之矣",
+            "source": "贾谊《论积贮疏》",
+            "translation": "世上有饥荒丰收，是天道运行的规律，禹汤也遭受过"
+          }
+        ],
+        "meaning": "遭受/蒙受",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "将军身被坚执锐",
+            "source": "司马迁《陈涉世家》",
+            "translation": "将军亲自穿着坚固的铠甲拿着锐利的武器"
+          },
+          {
+            "sentence": "同舍生皆被绮绣",
+            "source": "宋濂《送东阳马生序》",
+            "translation": "同舍的学生都穿着华丽的丝绸衣服"
+          }
+        ],
+        "meaning": "通'披'，穿/披在身上",
+        "usage": "通假"
+      }
+    ],
+    "pinyin": "bèi",
+    "type": "实词",
+    "word": "被"
+  },
+  {
+    "id": "shici_倍",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "每逢佳节倍思亲",
+            "source": "王维《九月九日忆山东兄弟》",
+            "translation": "每到佳节更加思念亲人"
+          }
+        ],
+        "meaning": "更加/加倍",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "愿伯具言臣之不敢倍德也",
+            "source": "司马迁《鸿门宴》",
+            "translation": "希望您详细说明我不敢背弃恩德"
+          }
+        ],
+        "meaning": "通'背'，违背/背弃",
+        "usage": "通假"
+      }
+    ],
+    "pinyin": "bèi",
+    "type": "实词",
+    "word": "倍"
+  },
+  {
+    "id": "shici_本",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "臣闻求木之长者，必固其根本",
+            "source": "魏征《谏太宗十思疏》",
+            "translation": "臣听说要求树木长得高大，必须稳固它的根"
+          }
+        ],
+        "meaning": "草木的根/根本",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "臣本布衣",
+            "source": "诸葛亮《出师表》",
+            "translation": "臣本来是平民"
+          }
+        ],
+        "meaning": "本来/原本",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "抑本其成败之迹，而皆自于人欤",
+            "source": "欧阳修《伶官传序》",
+            "translation": "或者推究他成功失败的踪迹，都是出于人为吧"
+          }
+        ],
+        "meaning": "推究本源/考察",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "běn",
+    "type": "实词",
+    "word": "本"
+  },
+  {
+    "id": "shici_鄙",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "蜀之鄙有二僧",
+            "source": "彭端淑《为学》",
+            "translation": "四川的边远地方有两个和尚"
+          }
+        ],
+        "meaning": "边邑/边远的地方",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "肉食者鄙，未能远谋",
+            "source": "《左传·曹刿论战》",
+            "translation": "吃肉的人浅陋，不能深谋远虑"
+          },
+          {
+            "sentence": "先帝不以臣卑鄙",
+            "source": "诸葛亮《出师表》",
+            "translation": "先帝不嫌臣地位低微、见识浅陋"
+          }
+        ],
+        "meaning": "浅陋/鄙俗",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "孔子鄙其小器",
+            "source": "司马光《训俭示康》",
+            "translation": "孔子看不起他器量狭小"
+          }
+        ],
+        "meaning": "看不起/轻视",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "bǐ",
+    "type": "实词",
+    "word": "鄙"
+  },
+  {
+    "id": "shici_兵",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "收天下之兵，聚之咸阳",
+            "source": "贾谊《过秦论》",
+            "translation": "收缴天下的兵器，聚集到咸阳"
+          },
+          {
+            "sentence": "六国破灭，非兵不利",
+            "source": "苏洵《六国论》",
+            "translation": "六国灭亡，不是因为兵器不锋利"
+          }
+        ],
+        "meaning": "兵器/武器",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "沛公兵十万",
+            "source": "司马迁《鸿门宴》",
+            "translation": "沛公的军队十万人"
+          }
+        ],
+        "meaning": "军队/士兵",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "兵旱相乘，天下大屈",
+            "source": "贾谊《论积贮疏》",
+            "translation": "战争和旱灾相继而来，天下非常困乏"
+          }
+        ],
+        "meaning": "战争/军事",
+        "usage": "名词"
+      }
+    ],
+    "pinyin": "bīng",
+    "type": "实词",
+    "word": "兵"
+  },
+  {
+    "id": "shici_病",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "君之病在肌肤",
+            "source": "《韩非子·扁鹊见蔡桓公》",
+            "translation": "您的病在肌肤"
+          }
+        ],
+        "meaning": "疾病/重病",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "向吾不为斯役，则久已病矣",
+            "source": "柳宗元《捕蛇者说》",
+            "translation": "如果我不做这个差事，早就困苦不堪了"
+          }
+        ],
+        "meaning": "困苦不堪/疲惫",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "君子病无能焉，不病人之不己知也",
+            "source": "《论语》",
+            "translation": "君子担心自己没有能力，不担心别人不了解自己"
+          }
+        ],
+        "meaning": "担心/忧虑",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "bìng",
+    "type": "实词",
+    "word": "病"
+  },
+  {
+    "id": "shici_察",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "徐而察之",
+            "source": "苏轼《石钟山记》",
+            "translation": "慢慢地观察它"
+          }
+        ],
+        "meaning": "观察/仔细看",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "小大之狱，虽不能察，必以情",
+            "source": "《左传·曹刿论战》",
+            "translation": "大大小小的案件，即使不能一一明察，也一定根据实情来处理"
+          },
+          {
+            "sentence": "前太守臣逵察臣孝廉",
+            "source": "李密《陈情表》",
+            "translation": "前太守臣逵考察推举臣为孝廉"
+          }
+        ],
+        "meaning": "考察/明察",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "chá",
+    "type": "实词",
+    "word": "察"
+  },
+  {
+    "id": "shici_朝",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "入朝见威王",
+            "source": "《邹忌讽齐王纳谏》",
+            "translation": "入朝廷拜见威王"
+          }
+        ],
+        "meaning": "朝廷/朝代",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "相如每朝时，常称病",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "蔺相如每次上朝时，常常称病"
+          }
+        ],
+        "meaning": "上朝/朝见",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "朝发白帝，暮到江陵",
+            "source": "郦道元《三峡》",
+            "translation": "早晨从白帝城出发，傍晚到达江陵"
+          }
+        ],
+        "meaning": "通'早'，早晨",
+        "usage": "通假"
+      }
+    ],
+    "pinyin": "cháo",
+    "type": "实词",
+    "word": "朝"
+  },
+  {
+    "id": "shici_曾",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "同是天涯沦落人，相逢何必曾相识",
+            "source": "白居易《琵琶行》",
+            "translation": "同是天涯沦落的人，相逢何必曾经相识"
+          }
+        ],
+        "meaning": "曾经",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "曾不能毁山之一毛",
+            "source": "《列子·愚公移山》",
+            "translation": "竟然不能毁掉山上的一根草"
+          }
+        ],
+        "meaning": "竟然/简直",
+        "usage": "副词"
+      }
+    ],
+    "pinyin": "céng",
+    "type": "实词",
+    "word": "曾"
+  },
+  {
+    "id": "shici_乘",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "乘犊车，从吏卒",
+            "source": "司马迁《赤壁之战》",
+            "translation": "乘坐牛车，带着吏卒"
+          }
+        ],
+        "meaning": "乘坐/驾",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "于是乘其厉声以呵",
+            "source": "张溥《五人墓碑记》",
+            "translation": "于是趁着他大声呵斥的时候"
+          }
+        ],
+        "meaning": "趁着/凭借",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "致万乘之势",
+            "source": "贾谊《过秦论》",
+            "translation": "拥有万乘大国的势力"
+          }
+        ],
+        "meaning": "一车四马为一乘",
+        "usage": "数词"
+      }
+    ],
+    "pinyin": "chéng",
+    "type": "实词",
+    "word": "乘"
+  },
+  {
+    "id": "shici_诚",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "此诚危急存亡之秋也",
+            "source": "诸葛亮《出师表》",
+            "translation": "这确实是危急存亡的关键时刻"
+          }
+        ],
+        "meaning": "确实/的确",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "帝感其诚",
+            "source": "《列子·愚公移山》",
+            "translation": "天帝被他的诚心感动"
+          }
+        ],
+        "meaning": "诚心/真心",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "诚如是，则霸业可成",
+            "source": "陈寿《隆中对》",
+            "translation": "如果果真这样，那么霸业就可以成功"
+          }
+        ],
+        "meaning": "如果确实/果真",
+        "usage": "连词"
+      }
+    ],
+    "pinyin": "chéng",
+    "type": "实词",
+    "word": "诚"
+  },
+  {
+    "id": "shici_除",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "攘除奸凶，兴复汉室",
+            "source": "诸葛亮《出师表》",
+            "translation": "铲除奸邪凶恶之人，复兴汉室"
+          }
+        ],
+        "meaning": "清除/去掉",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "寻蒙国恩，除臣洗马",
+            "source": "李密《陈情表》",
+            "translation": "不久蒙受国恩，授臣洗马之职"
+          }
+        ],
+        "meaning": "任命/授职",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "chú",
+    "type": "实词",
+    "word": "除"
+  },
+  {
+    "id": "shici_辞",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "初至北营，抗辞慷慨",
+            "source": "文天祥《〈指南录〉后序》",
+            "translation": "刚到北方军营时，慷慨陈辞"
+          }
+        ],
+        "meaning": "言辞/文辞",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "今者出，未辞也",
+            "source": "司马迁《鸿门宴》",
+            "translation": "刚才出来，没有告辞"
+          }
+        ],
+        "meaning": "辞别/告别",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "臣以供养无主，辞不赴命",
+            "source": "李密《陈情表》",
+            "translation": "臣因为供养祖母无人，推辞不接受任命"
+          }
+        ],
+        "meaning": "推辞/辞谢",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "cí",
+    "type": "实词",
+    "word": "辞"
+  },
+  {
+    "id": "shici_从",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "从小丘西行百二十步",
+            "source": "柳宗元《小石潭记》",
+            "translation": "从小丘向西走一百二十步"
+          }
+        ],
+        "meaning": "跟随/随从",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "乃从其计",
+            "source": "司马迁《鸿门宴》",
+            "translation": "于是听从了他的计策"
+          }
+        ],
+        "meaning": "依从/听从",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "合从缔交，相与为一",
+            "source": "贾谊《过秦论》",
+            "translation": "合纵结交，互相联合为一体"
+          }
+        ],
+        "meaning": "通'纵'，合纵",
+        "usage": "通假"
+      }
+    ],
+    "pinyin": "cóng",
+    "type": "实词",
+    "word": "从"
+  },
+  {
+    "id": "shici_殆",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "郦元之所见闻，殆与余同",
+            "source": "苏轼《石钟山记》",
+            "translation": "郦元所见到听到的，大概和我相同"
+          }
+        ],
+        "meaning": "大概/恐怕",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "知彼知己者，百战不殆",
+            "source": "《孙子兵法》",
+            "translation": "了解敌人了解自己，百战不会有危险"
+          }
+        ],
+        "meaning": "危险",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "dài",
+    "type": "实词",
+    "word": "殆"
+  },
+  {
+    "id": "shici_当",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "当窗理云鬓",
+            "source": "《木兰诗》",
+            "translation": "对着窗户梳理云鬓"
+          }
+        ],
+        "meaning": "对着/面对",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "非刘豫州莫可以当曹操者",
+            "source": "司马迁《赤壁之战》",
+            "translation": "除了刘豫州没有人可以抵挡曹操"
+          }
+        ],
+        "meaning": "阻挡/抵挡",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "犯法当死",
+            "source": "司马迁《魏其武安侯列传》",
+            "translation": "犯法应当判处死刑"
+          }
+        ],
+        "meaning": "判罪/判决",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "当是时也，商君佐之",
+            "source": "贾谊《过秦论》",
+            "translation": "在这个时候，商鞅辅佐他"
+          }
+        ],
+        "meaning": "在/值",
+        "usage": "介词"
+      }
+    ],
+    "pinyin": "dāng",
+    "type": "实词",
+    "word": "当"
+  },
+  {
+    "id": "shici_道",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "从此道至吾军，不过二十里耳",
+            "source": "司马迁《鸿门宴》",
+            "translation": "从这条路到我军营，不过二十里"
+          }
+        ],
+        "meaning": "道路",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "师者，所以传道受业解惑也",
+            "source": "韩愈《师说》",
+            "translation": "老师，是用来传授道理、教授学业、解答疑难的人"
+          },
+          {
+            "sentence": "伐无道，诛暴秦",
+            "source": "司马迁《陈涉世家》",
+            "translation": "讨伐无道的君主，诛灭残暴的秦朝"
+          }
+        ],
+        "meaning": "道理/规律/道义",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "不足为外人道也",
+            "source": "陶渊明《桃花源记》",
+            "translation": "不值得对外人讲"
+          }
+        ],
+        "meaning": "说/讲/谈论",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "dào",
+    "type": "实词",
+    "word": "道"
+  },
+  {
+    "id": "shici_得",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "然得而腊之以为饵",
+            "source": "柳宗元《捕蛇者说》",
+            "translation": "然而得到它把它晾干做成药饵"
+          }
+        ],
+        "meaning": "获得/得到",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "沛公军霸上，未得与项羽相见",
+            "source": "司马迁《鸿门宴》",
+            "translation": "沛公驻军霸上，没能和项羽相见"
+          }
+        ],
+        "meaning": "能够/可以",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "所识穷乏者得我与",
+            "source": "《孟子》",
+            "translation": "所认识的穷困的人感激我吗"
+          }
+        ],
+        "meaning": "通'德'，感激",
+        "usage": "通假"
+      }
+    ],
+    "pinyin": "dé",
+    "type": "实词",
+    "word": "得"
+  },
+  {
+    "id": "shici_度",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "内立法度，务耕织",
+            "source": "贾谊《过秦论》",
+            "translation": "对内建立法令制度，致力耕种纺织"
+          }
+        ],
+        "meaning": "制度/法度",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "度我至军中，公乃入",
+            "source": "司马迁《鸿门宴》",
+            "translation": "估计我到军中的时候，你再进去"
+          }
+        ],
+        "meaning": "衡量/推测",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "一夜飞度镜湖月",
+            "source": "李白《梦游天姥吟留别》",
+            "translation": "一夜之间飞渡过镜湖的月色"
+          }
+        ],
+        "meaning": "渡过/越过",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "dù",
+    "type": "实词",
+    "word": "度"
+  },
+  {
+    "id": "shici_非",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "非天质之卑，则心不若余之专耳",
+            "source": "宋濂《送东阳马生序》",
+            "translation": "不是天资低下，而是用心不如我专一"
+          }
+        ],
+        "meaning": "不/不是",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "举世而非之而不加沮",
+            "source": "《庄子·逍遥游》",
+            "translation": "全社会都非难他也不更加沮丧"
+          }
+        ],
+        "meaning": "责备/非难",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "觉今是而昨非",
+            "source": "陶渊明《归去来兮辞》",
+            "translation": "觉悟到今天是对的而昨天是错的"
+          }
+        ],
+        "meaning": "错误的/不对的",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "fēi",
+    "type": "实词",
+    "word": "非"
+  },
+  {
+    "id": "shici_复",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "复前行，欲穷其林",
+            "source": "陶渊明《桃花源记》",
+            "translation": "又继续前行，想要走到林的尽头"
+          }
+        ],
+        "meaning": "再/又",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "师道之不复，可知矣",
+            "source": "韩愈《师说》",
+            "translation": "从师的风尚不能恢复，可以知道了"
+          }
+        ],
+        "meaning": "恢复",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "fù",
+    "type": "实词",
+    "word": "复"
+  },
+  {
+    "id": "shici_负",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "命夸娥氏二子负二山",
+            "source": "《列子·愚公移山》",
+            "translation": "命令夸娥氏的两个儿子背起两座山"
+          }
+        ],
+        "meaning": "背负/担负",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "秦贪，负其强",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "秦国贪婪，倚仗它强大"
+          }
+        ],
+        "meaning": "凭借/倚仗",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "誓天不相负",
+            "source": "《孔雀东南飞》",
+            "translation": "对天发誓不会辜负你"
+          }
+        ],
+        "meaning": "辜负/对不起",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "fù",
+    "type": "实词",
+    "word": "负"
+  },
+  {
+    "id": "shici_盖",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "今已亭亭如盖矣",
+            "source": "归有光《项脊轩志》",
+            "translation": "现在已经高高挺立像伞盖一样了"
+          }
+        ],
+        "meaning": "车盖/伞盖",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "盖余所至，比好游者尚不能十一",
+            "source": "王安石《游褒禅山记》",
+            "translation": "大概我所到的地方，比起喜欢游览的人还不到十分之一"
+          }
+        ],
+        "meaning": "大概/大约",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "盖失强援，不能独完",
+            "source": "苏洵《六国论》",
+            "translation": "因为失去了强有力的外援，不能独自保全"
+          }
+        ],
+        "meaning": "承接上文，表原因",
+        "usage": "连词"
+      }
+    ],
+    "pinyin": "gài",
+    "type": "实词",
+    "word": "盖"
+  },
+  {
+    "id": "shici_故",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "既克，公问其故",
+            "source": "《左传·曹刿论战》",
+            "translation": "战胜后，庄公问那原因"
+          }
+        ],
+        "meaning": "缘故/原因",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "温故而知新",
+            "source": "《论语》",
+            "translation": "温习旧知识而能获得新体会"
+          },
+          {
+            "sentence": "故垒西边",
+            "source": "苏轼《念奴娇·赤壁怀古》",
+            "translation": "旧时营垒的西边"
+          }
+        ],
+        "meaning": "旧的/从前的",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "广故数言欲亡",
+            "source": "司马迁《陈涉世家》",
+            "translation": "吴广故意多次说想要逃跑"
+          }
+        ],
+        "meaning": "故意/特意",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "故木受绳则直",
+            "source": "荀子《劝学》",
+            "translation": "所以木头经过墨线量过就笔直"
+          }
+        ],
+        "meaning": "所以/因此",
+        "usage": "连词"
+      }
+    ],
+    "pinyin": "gù",
+    "type": "实词",
+    "word": "故"
+  },
+  {
+    "id": "shici_固",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "固国不以山溪之险",
+            "source": "《孟子》",
+            "translation": "巩固国防不能靠山河的险要"
+          }
+        ],
+        "meaning": "坚固/牢固",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "臣固知王之不欺臣",
+            "source": "《战国策》",
+            "translation": "臣本来就知道大王不会欺骗臣"
+          }
+        ],
+        "meaning": "本来/确实",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "蔺相如固止之",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "蔺相如坚决制止他们"
+          }
+        ],
+        "meaning": "坚决/执意",
+        "usage": "副词"
+      }
+    ],
+    "pinyin": "gù",
+    "type": "实词",
+    "word": "固"
+  },
+  {
+    "id": "shici_顾",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "顾野有麦场",
+            "source": "蒲松龄《狼》",
+            "translation": "看到田野里有个麦场"
+          }
+        ],
+        "meaning": "回头看/看",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "人之立志，顾不如蜀鄙之僧哉",
+            "source": "彭端淑《为学》",
+            "translation": "人立定志向，难道不如四川边地的和尚吗"
+          }
+        ],
+        "meaning": "反而/难道",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "三顾臣于草庐之中",
+            "source": "诸葛亮《出师表》",
+            "translation": "三次到草庐中来看望臣"
+          }
+        ],
+        "meaning": "拜访/探望",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "gù",
+    "type": "实词",
+    "word": "顾"
+  },
+  {
+    "id": "shici_归",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "一屠晚归，担中肉尽",
+            "source": "蒲松龄《狼》",
+            "translation": "一个屠夫傍晚回去，担子里的肉卖完了"
+          }
+        ],
+        "meaning": "返回/回去",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "城不入，臣请完璧归赵",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "城池不归入，臣请求完整地把璧还给赵国"
+          }
+        ],
+        "meaning": "归还",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "微斯人，吾谁与归",
+            "source": "范仲淹《岳阳楼记》",
+            "translation": "如果没有这样的人，我跟谁同道呢"
+          }
+        ],
+        "meaning": "归附/归属",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "guī",
+    "type": "实词",
+    "word": "归"
+  },
+  {
+    "id": "shici_国",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "六国破灭，非兵不利",
+            "source": "苏洵《六国论》",
+            "translation": "六国灭亡，不是因为兵器不锋利"
+          }
+        ],
+        "meaning": "国家/诸侯国",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "则有去国怀乡",
+            "source": "范仲淹《岳阳楼记》",
+            "translation": "就有离开国都怀念故乡的"
+          }
+        ],
+        "meaning": "国都/京城",
+        "usage": "名词"
+      }
+    ],
+    "pinyin": "guó",
+    "type": "实词",
+    "word": "国"
+  },
+  {
+    "id": "shici_何",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "大王来何操",
+            "source": "司马迁《鸿门宴》",
+            "translation": "大王来时带了什么"
+          }
+        ],
+        "meaning": "什么",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "何不按兵束甲",
+            "source": "司马迁《赤壁之战》",
+            "translation": "为什么不放下武器捆起铠甲"
+          }
+        ],
+        "meaning": "怎么/为什么",
+        "usage": "副词"
+      }
+    ],
+    "pinyin": "hé",
+    "type": "实词",
+    "word": "何"
+  },
+  {
+    "id": "shici_恨",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "未尝不叹息痛恨于桓灵也",
+            "source": "诸葛亮《出师表》",
+            "translation": "未尝不叹息痛恨桓帝灵帝"
+          },
+          {
+            "sentence": "此三者，吾遗恨也",
+            "source": "欧阳修《伶官传序》",
+            "translation": "这三件事，是我的遗憾"
+          }
+        ],
+        "meaning": "遗憾/不满意",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "hèn",
+    "type": "实词",
+    "word": "恨"
+  },
+  {
+    "id": "shici_后",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "后值倾覆，受任于败军之际",
+            "source": "诸葛亮《出师表》",
+            "translation": "后来遇到兵败倾覆，在败军之际接受任命"
+          }
+        ],
+        "meaning": "后面/后头",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "后人哀之而不鉴之",
+            "source": "杜牧《阿房宫赋》",
+            "translation": "后代人哀叹它却不以它为鉴"
+          }
+        ],
+        "meaning": "时间较晚的/未来的",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "hòu",
+    "type": "实词",
+    "word": "后"
+  },
+  {
+    "id": "shici_胡",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "胡不见我于王",
+            "source": "《墨子》",
+            "translation": "为什么不把我引见给大王"
+          }
+        ],
+        "meaning": "为什么/何",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "胡人不敢南下而牧马",
+            "source": "贾谊《过秦论》",
+            "translation": "胡人不敢南下牧马"
+          }
+        ],
+        "meaning": "古代北方少数民族",
+        "usage": "名词"
+      }
+    ],
+    "pinyin": "hú",
+    "type": "实词",
+    "word": "胡"
+  },
+  {
+    "id": "shici_还",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "还军霸上",
+            "source": "司马迁《鸿门宴》",
+            "translation": "退军回到霸上"
+          }
+        ],
+        "meaning": "返回/回去",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "合釜甑，还其老",
+            "source": "《庄子》",
+            "translation": "交还釜甑给老人"
+          }
+        ],
+        "meaning": "交还/归还",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "huán",
+    "type": "实词",
+    "word": "还"
+  },
+  {
+    "id": "shici_回",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "碧水东流至此回",
+            "source": "李白《望天门山》",
+            "translation": "碧绿的江水东流到这里回旋"
+          }
+        ],
+        "meaning": "运转/回旋",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "回车叱牛牵向北",
+            "source": "白居易《卖炭翁》",
+            "translation": "调转车头吆喝牛向北牵"
+          }
+        ],
+        "meaning": "返回/改变",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "huí",
+    "type": "实词",
+    "word": "回"
+  },
+  {
+    "id": "shici_或",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "或百步而后止，或五十步而后止",
+            "source": "《孟子》",
+            "translation": "有的人逃跑一百步然后停下，有的人逃跑五十步然后停下"
+          },
+          {
+            "sentence": "或曰：'此鹳鹤也'",
+            "source": "苏轼《石钟山记》",
+            "translation": "有人说：'这是鹳鹤'"
+          }
+        ],
+        "meaning": "有人/有的人",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "云霞明灭或可睹",
+            "source": "李白《梦游天姥吟留别》",
+            "translation": "云霞忽明忽暗也许能看到"
+          }
+        ],
+        "meaning": "也许/或许",
+        "usage": "副词"
+      }
+    ],
+    "pinyin": "huò",
+    "type": "实词",
+    "word": "或"
+  },
+  {
+    "id": "shici_疾",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "君有疾在腠理",
+            "source": "《韩非子·扁鹊见蔡桓公》",
+            "translation": "您有病在皮肤的纹理间"
+          }
+        ],
+        "meaning": "疾病",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "君子疾夫舍曰欲之而必为之辞",
+            "source": "《论语》",
+            "translation": "君子痛恨那种不说自己贪欲却一定为之找借口的做法"
+          }
+        ],
+        "meaning": "痛恨/厌恶",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "虽乘奔御风，不以疾也",
+            "source": "郦道元《三峡》",
+            "translation": "即使骑着快马驾着风，也不如这样快"
+          }
+        ],
+        "meaning": "快/急速",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "jí",
+    "type": "实词",
+    "word": "疾"
+  },
+  {
+    "id": "shici_即",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "梁父即楚将项燕",
+            "source": "司马迁《项羽本纪》",
+            "translation": "梁父就是楚国将领项燕"
+          }
+        ],
+        "meaning": "就/就是",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "即不为河伯娶妇，水来漂没",
+            "source": "褚少孙《西门豹治邺》",
+            "translation": "如果不为河伯娶妇，水来淹没"
+          }
+        ],
+        "meaning": "如果/假使",
+        "usage": "连词"
+      }
+    ],
+    "pinyin": "jí",
+    "type": "实词",
+    "word": "即"
+  },
+  {
+    "id": "shici_假",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "假舟楫者，非能水也",
+            "source": "荀子《劝学》",
+            "translation": "借船桨的人，并不是会游水"
+          },
+          {
+            "sentence": "以是人多以书假余",
+            "source": "宋濂《送东阳马生序》",
+            "translation": "因此人们大多把书借给我"
+          }
+        ],
+        "meaning": "借",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "乃悟前狼假寐",
+            "source": "蒲松龄《狼》",
+            "translation": "才明白前面的狼是假装睡觉"
+          }
+        ],
+        "meaning": "虚假的/不真实的",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "jiǎ",
+    "type": "实词",
+    "word": "假"
+  },
+  {
+    "id": "shici_间",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "其间千二百里",
+            "source": "郦道元《三峡》",
+            "translation": "这中间一千二百里"
+          }
+        ],
+        "meaning": "中间/期间",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "又间令吴广之次所旁丛祠中",
+            "source": "司马迁《陈涉世家》",
+            "translation": "又暗中让吴广到驻地旁的丛林庙中"
+          }
+        ],
+        "meaning": "暗中/秘密地",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "肉食者谋之，又何间焉",
+            "source": "《左传·曹刿论战》",
+            "translation": "吃肉的人谋划它，又何必参与呢"
+          }
+        ],
+        "meaning": "参与/介入",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "jiàn",
+    "type": "实词",
+    "word": "间"
+  },
+  {
+    "id": "shici_见",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "见渔人，乃大惊",
+            "source": "陶渊明《桃花源记》",
+            "translation": "看到渔人，于是非常惊讶"
+          }
+        ],
+        "meaning": "看见/看到",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "曹刿请见",
+            "source": "《左传·曹刿论战》",
+            "translation": "曹刿请求拜见"
+          }
+        ],
+        "meaning": "拜见/谒见",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "吾长见笑于大方之家",
+            "source": "《庄子·秋水》",
+            "translation": "我将长久地被大方之家耻笑"
+          }
+        ],
+        "meaning": "表被动，相当于'被'",
+        "usage": "通假"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "生孩六月，慈父见背",
+            "source": "李密《陈情表》",
+            "translation": "出生六个月，慈父就背弃了我（去世）"
+          }
+        ],
+        "meaning": "放在动词前，表示对自己怎么样",
+        "usage": "代词"
+      }
+    ],
+    "pinyin": "jiàn",
+    "type": "实词",
+    "word": "见"
+  },
+  {
+    "id": "shici_解",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "庖丁为文惠君解牛",
+            "source": "《庄子·养生主》",
+            "translation": "庖丁给文惠君宰牛"
+          }
+        ],
+        "meaning": "剖开/分开/解开",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "师者，所以传道受业解惑也",
+            "source": "韩愈《师说》",
+            "translation": "老师，是用来传授道理、教授学业、解答疑惑的人"
+          }
+        ],
+        "meaning": "解释/解答",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "jiě",
+    "type": "实词",
+    "word": "解"
+  },
+  {
+    "id": "shici_就",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "金就砺则利",
+            "source": "荀子《劝学》",
+            "translation": "金属靠近磨刀石就锋利"
+          }
+        ],
+        "meaning": "接近/靠近/趋向",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "草创未就",
+            "source": "司马迁《报任安书》",
+            "translation": "草创还没有完成"
+          }
+        ],
+        "meaning": "完成/成就/成功",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "jiù",
+    "type": "实词",
+    "word": "就"
+  },
+  {
+    "id": "shici_举",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "举所佩玉玦以示之者三",
+            "source": "司马迁《鸿门宴》",
+            "translation": "举起所佩戴的玉玦向他示意了三次"
+          }
+        ],
+        "meaning": "举起/抬起",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "后刺史臣荣举臣秀才",
+            "source": "李密《陈情表》",
+            "translation": "后刺史臣荣推举臣为秀才"
+          }
+        ],
+        "meaning": "推荐/推举",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "举世混浊而我独清",
+            "source": "司马迁《屈原列传》",
+            "translation": "整个世界都混浊而我独自清廉"
+          }
+        ],
+        "meaning": "全/整个",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "jǔ",
+    "type": "实词",
+    "word": "举"
+  },
+  {
+    "id": "shici_绝",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "率妻子邑人来此绝境",
+            "source": "陶渊明《桃花源记》",
+            "translation": "带着妻子儿女和乡邻来到这个与世隔绝的地方"
+          }
+        ],
+        "meaning": "断绝/隔绝",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "奇山异水，天下独绝",
+            "source": "吴均《与朱元思书》",
+            "translation": "奇山异水，天下独一无二"
+          }
+        ],
+        "meaning": "极好的/到了极点的",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "忽然抚尺一下，群响毕绝",
+            "source": "林嗣环《口技》",
+            "translation": "忽然醒木一拍，各种声音全部停止"
+          }
+        ],
+        "meaning": "停止/消失",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "jué",
+    "type": "实词",
+    "word": "绝"
+  },
+  {
+    "id": "shici_堪",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "而境界危恶，层见错出，非人世所堪",
+            "source": "文天祥《〈指南录〉后序》",
+            "translation": "而处境危险恶劣，层层出现交错发生，不是人世间所能忍受的"
+          }
+        ],
+        "meaning": "经得起/忍受",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "可堪回首",
+            "source": "辛弃疾《永遇乐·京口北固亭怀古》",
+            "translation": "怎能忍心回首"
+          }
+        ],
+        "meaning": "能够/可以",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "kān",
+    "type": "实词",
+    "word": "堪"
+  },
+  {
+    "id": "shici_克",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "既克，公问其故",
+            "source": "《左传·曹刿论战》",
+            "translation": "战胜后，庄公问那原因"
+          }
+        ],
+        "meaning": "战胜/攻破",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "克己复礼",
+            "source": "《论语》",
+            "translation": "约束自己恢复礼制"
+          }
+        ],
+        "meaning": "能够/胜任",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "kè",
+    "type": "实词",
+    "word": "克"
+  },
+  {
+    "id": "shici_类",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "其类维何",
+            "source": "《诗经》",
+            "translation": "它的种类是什么"
+          }
+        ],
+        "meaning": "种类/类别",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "中绘殿阁，类兰若",
+            "source": "蒲松龄《促织》",
+            "translation": "中间画着殿阁，像寺庙"
+          }
+        ],
+        "meaning": "类似/像",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "lèi",
+    "type": "实词",
+    "word": "类"
+  },
+  {
+    "id": "shici_怜",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "可怜身上衣正单",
+            "source": "白居易《卖炭翁》",
+            "translation": "可怜身上穿的衣裳正单薄"
+          },
+          {
+            "sentence": "楚人怜之至今",
+            "source": "司马迁《陈涉世家》",
+            "translation": "楚国人同情他直到现在"
+          }
+        ],
+        "meaning": "怜悯/同情",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "丈夫亦爱怜其少子乎",
+            "source": "《战国策·触龙说赵太后》",
+            "translation": "男人也疼爱他的小儿子吗"
+          }
+        ],
+        "meaning": "爱惜/喜爱",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "lián",
+    "type": "实词",
+    "word": "怜"
+  },
+  {
+    "id": "shici_弥",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "奉之弥繁，侵之愈急",
+            "source": "苏洵《六国论》",
+            "translation": "奉送得越多，侵犯得越急"
+          }
+        ],
+        "meaning": "更加/越发",
+        "usage": "副词"
+      }
+    ],
+    "pinyin": "mí",
+    "type": "实词",
+    "word": "弥"
+  },
+  {
+    "id": "shici_莫",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "天下莫之能争",
+            "source": "王安石《游褒禅山记》",
+            "translation": "天下没有人能与之争锋"
+          }
+        ],
+        "meaning": "没有什么/没有谁",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "莫用众人之议也",
+            "source": "司马迁《赤壁之战》",
+            "translation": "不要采纳众人的议论"
+          }
+        ],
+        "meaning": "不要/别",
+        "usage": "副词"
+      }
+    ],
+    "pinyin": "mò",
+    "type": "实词",
+    "word": "莫"
+  },
+  {
+    "id": "shici_内",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "内立法度",
+            "source": "贾谊《过秦论》",
+            "translation": "对内建立法令制度"
+          }
+        ],
+        "meaning": "里面/内部",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "距关，毋内诸侯",
+            "source": "司马迁《鸿门宴》",
+            "translation": "把守住函谷关，不要接纳诸侯"
+          }
+        ],
+        "meaning": "通'纳'，接纳",
+        "usage": "通假"
+      }
+    ],
+    "pinyin": "nèi",
+    "type": "实词",
+    "word": "内"
+  },
+  {
+    "id": "shici_期",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "失期，法皆斩",
+            "source": "司马迁《陈涉世家》",
+            "translation": "误了期限，按法律都要斩首"
+          }
+        ],
+        "meaning": "期限/时间",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "不期修古，不法常可",
+            "source": "《韩非子》",
+            "translation": "不期望复古，不效法陈规"
+          }
+        ],
+        "meaning": "期望/希望",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "qī",
+    "type": "实词",
+    "word": "期"
+  },
+  {
+    "id": "shici_奇",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "奇山异水",
+            "source": "吴均《与朱元思书》",
+            "translation": "奇山异水"
+          }
+        ],
+        "meaning": "罕见的/特殊的",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "奇计",
+            "source": "《史记》",
+            "translation": "出人意料的计策"
+          }
+        ],
+        "meaning": "出人意料的",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "qí",
+    "type": "实词",
+    "word": "奇"
+  },
+  {
+    "id": "shici_迁",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "时北兵已迫修门外，战、守、迁皆不及施",
+            "source": "文天祥《〈指南录〉后序》",
+            "translation": "当时元兵已逼近城门外，出战、守城、迁移都来不及实施"
+          }
+        ],
+        "meaning": "迁移/搬迁",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "再迁为太史令",
+            "source": "范晔《张衡传》",
+            "translation": "再次升迁为太史令"
+          }
+        ],
+        "meaning": "升职/调任",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "qiān",
+    "type": "实词",
+    "word": "迁"
+  },
+  {
+    "id": "shici_请",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "曹刿请见",
+            "source": "《左传·曹刿论战》",
+            "translation": "曹刿请求拜见"
+          },
+          {
+            "sentence": "请息交以绝游",
+            "source": "陶渊明《归去来兮辞》",
+            "translation": "请让我断绝与世俗的交往"
+          }
+        ],
+        "meaning": "请求/请允许我做",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "公子闻之，往请",
+            "source": "司马迁《信陵君窃符救赵》",
+            "translation": "公子听说了，前去邀请"
+          }
+        ],
+        "meaning": "请教/邀请",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "qǐng",
+    "type": "实词",
+    "word": "请"
+  },
+  {
+    "id": "shici_穷",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "子子孙孙无穷匮也",
+            "source": "《列子·愚公移山》",
+            "translation": "子子孙孙没有穷尽"
+          }
+        ],
+        "meaning": "尽/完结",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "复前行，欲穷其林",
+            "source": "陶渊明《桃花源记》",
+            "translation": "又继续前行，想要走到林的尽头"
+          }
+        ],
+        "meaning": "走到尽头",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "穷且益坚，不坠青云之志",
+            "source": "王勃《滕王阁序》",
+            "translation": "困厄却更加坚定，不放弃远大的志向"
+          }
+        ],
+        "meaning": "困厄/不得志",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "qióng",
+    "type": "实词",
+    "word": "穷"
+  },
+  {
+    "id": "shici_求",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "求二石兽于水中",
+            "source": "纪昀《河中石兽》",
+            "translation": "在水中寻找两个石兽"
+          }
+        ],
+        "meaning": "寻找/寻求",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "不求闻达于诸侯",
+            "source": "诸葛亮《出师表》",
+            "translation": "不追求在诸侯中闻名显达"
+          }
+        ],
+        "meaning": "请求/乞求",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "qiú",
+    "type": "实词",
+    "word": "求"
+  },
+  {
+    "id": "shici_去",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "去国怀乡",
+            "source": "范仲淹《岳阳楼记》",
+            "translation": "离开国都怀念故乡"
+          },
+          {
+            "sentence": "停数日，辞去",
+            "source": "陶渊明《桃花源记》",
+            "translation": "停留了几天，辞别离开"
+          }
+        ],
+        "meaning": "离开",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "西蜀之去南海",
+            "source": "彭端淑《为学》",
+            "translation": "西蜀距离南海"
+          }
+        ],
+        "meaning": "距离",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "qù",
+    "type": "实词",
+    "word": "去"
+  },
+  {
+    "id": "shici_劝",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "劝学",
+            "source": "荀子",
+            "translation": "鼓励学习"
+          }
+        ],
+        "meaning": "劝勉/鼓励",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "劝秦王显岩穴之士",
+            "source": "司马迁《屈原列传》",
+            "translation": "劝说秦王显耀隐士"
+          }
+        ],
+        "meaning": "劝说/劝告",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "quàn",
+    "type": "实词",
+    "word": "劝"
+  },
+  {
+    "id": "shici_却",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "相如因持璧却立",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "蔺相如于是拿着璧退后站立"
+          }
+        ],
+        "meaning": "退/退步",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "却之为不恭",
+            "source": "《孟子》",
+            "translation": "拒绝它是不恭敬的"
+          }
+        ],
+        "meaning": "拒绝/推却",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "què",
+    "type": "实词",
+    "word": "却"
+  },
+  {
+    "id": "shici_如",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "沛公起如厕",
+            "source": "司马迁《鸿门宴》",
+            "translation": "沛公起身去厕所"
+          }
+        ],
+        "meaning": "到……去/往",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "君子之过也，如日月之食焉",
+            "source": "《论语》",
+            "translation": "君子的过错，就像日食月食一样"
+          }
+        ],
+        "meaning": "像/如同",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "如曰今日当一切不事事",
+            "source": "王安石《答司马谏议书》",
+            "translation": "如果说今天应当什么事都不做"
+          }
+        ],
+        "meaning": "如果/假如",
+        "usage": "连词"
+      }
+    ],
+    "pinyin": "rú",
+    "type": "实词",
+    "word": "如"
+  },
+  {
+    "id": "shici_若",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "若为佣耕，何富贵也",
+            "source": "司马迁《陈涉世家》",
+            "translation": "你是个雇农，怎么富贵呢"
+          }
+        ],
+        "meaning": "你/你们",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "若止印二三本，未为简易",
+            "source": "沈括《活板》",
+            "translation": "如果只印两三本，不算简便"
+          }
+        ],
+        "meaning": "如果/假如",
+        "usage": "连词"
+      }
+    ],
+    "pinyin": "ruò",
+    "type": "实词",
+    "word": "若"
+  },
+  {
+    "id": "shici_善",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "积善成德",
+            "source": "荀子《劝学》",
+            "translation": "积累善行成为品德"
+          }
+        ],
+        "meaning": "好/美好",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "善假于物也",
+            "source": "荀子《劝学》",
+            "translation": "善于借助外物"
+          },
+          {
+            "sentence": "京中有善口技者",
+            "source": "林嗣环《口技》",
+            "translation": "京城里有个擅长口技的人"
+          }
+        ],
+        "meaning": "善于/擅长",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "shàn",
+    "type": "实词",
+    "word": "善"
+  },
+  {
+    "id": "shici_少",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "少时，一狼径去",
+            "source": "蒲松龄《狼》",
+            "translation": "过了一会儿，一只狼径直离开"
+          }
+        ],
+        "meaning": "数量少/不多",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "宾客意少舒",
+            "source": "林嗣环《口技》",
+            "translation": "客人们的心情稍微放松了"
+          }
+        ],
+        "meaning": "稍微/略微",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "陈涉少时，尝与人佣耕",
+            "source": "司马迁《陈涉世家》",
+            "translation": "陈涉年轻时，曾经和人一起被雇用种地"
+          }
+        ],
+        "meaning": "年轻/年少",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "shǎo",
+    "type": "实词",
+    "word": "少"
+  },
+  {
+    "id": "shici_涉",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "楚人有涉江者",
+            "source": "《吕氏春秋》",
+            "translation": "楚国有渡江的人"
+          }
+        ],
+        "meaning": "渡过",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "shè",
+    "type": "实词",
+    "word": "涉"
+  },
+  {
+    "id": "shici_胜",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "予观夫巴陵胜状",
+            "source": "范仲淹《岳阳楼记》",
+            "translation": "我看那巴陵的美景"
+          }
+        ],
+        "meaning": "优美的/美好的",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "此时无声胜有声",
+            "source": "白居易《琵琶行》",
+            "translation": "此时没有声音胜过有声音"
+          }
+        ],
+        "meaning": "胜过/超过",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "沛公不胜杯杓",
+            "source": "司马迁《鸿门宴》",
+            "translation": "沛公不能胜酒力"
+          }
+        ],
+        "meaning": "忍受/承受",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "shèng",
+    "type": "实词",
+    "word": "胜"
+  },
+  {
+    "id": "shici_识",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "识其大略",
+            "source": "《三国志》",
+            "translation": "知道它的大概"
+          }
+        ],
+        "meaning": "知道/认识",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "默而识之",
+            "source": "《论语》",
+            "translation": "默默地记住它"
+          }
+        ],
+        "meaning": "通'志'，记住",
+        "usage": "通假"
+      }
+    ],
+    "pinyin": "shí",
+    "type": "实词",
+    "word": "识"
+  },
+  {
+    "id": "shici_使",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "扶苏以数谏故，上使外将兵",
+            "source": "司马迁《陈涉世家》",
+            "translation": "扶苏因为多次劝谏的缘故，皇上派他在外带兵"
+          }
+        ],
+        "meaning": "让/叫/派遣",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "引赵使者蔺相如",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "引见赵国使者蔺相如"
+          }
+        ],
+        "meaning": "使者/使臣",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "向使三国各爱其地",
+            "source": "苏洵《六国论》",
+            "translation": "假使三国各自爱惜他们的土地"
+          }
+        ],
+        "meaning": "假使/如果",
+        "usage": "连词"
+      }
+    ],
+    "pinyin": "shǐ",
+    "type": "实词",
+    "word": "使"
+  },
+  {
+    "id": "shici_是",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "是可忍，孰不可忍也",
+            "source": "《论语》",
+            "translation": "如果这都能容忍，还有什么不能容忍的呢"
+          }
+        ],
+        "meaning": "这/这个/这样",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "觉今是而昨非",
+            "source": "陶渊明《归去来兮辞》",
+            "translation": "觉悟到今天是对的而昨天是错的"
+          }
+        ],
+        "meaning": "正确的/对的",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "问今是何世",
+            "source": "陶渊明《桃花源记》",
+            "translation": "问现在是什么朝代"
+          }
+        ],
+        "meaning": "判断词，是",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "shì",
+    "type": "实词",
+    "word": "是"
+  },
+  {
+    "id": "shici_适",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "适莽苍者",
+            "source": "《庄子·逍遥游》",
+            "translation": "到郊外去的人"
+          }
+        ],
+        "meaning": "到……去/往",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "少无适俗韵",
+            "source": "陶渊明《归园田居》",
+            "translation": "从小没有迎合世俗的性情"
+          }
+        ],
+        "meaning": "适合/舒适",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "shì",
+    "type": "实词",
+    "word": "适"
+  },
+  {
+    "id": "shici_书",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "一男附书至",
+            "source": "杜甫《石壕吏》",
+            "translation": "一个儿子捎信来"
+          },
+          {
+            "sentence": "家书抵万金",
+            "source": "杜甫《春望》",
+            "translation": "家信抵得上万金"
+          }
+        ],
+        "meaning": "书信/文件",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "家贫，无从致书以观",
+            "source": "宋濂《送东阳马生序》",
+            "translation": "家里贫穷，没有办法得到书来看"
+          }
+        ],
+        "meaning": "书籍/书",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "乃丹书帛曰'陈胜王'",
+            "source": "司马迁《陈涉世家》",
+            "translation": "于是用朱砂在帛上写'陈胜王'"
+          }
+        ],
+        "meaning": "写/书写",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "shū",
+    "type": "实词",
+    "word": "书"
+  },
+  {
+    "id": "shici_孰",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "我孰与城北徐公美",
+            "source": "《邹忌讽齐王纳谏》",
+            "translation": "我与城北徐公谁更美"
+          },
+          {
+            "sentence": "孰知赋敛之毒有甚是蛇者乎",
+            "source": "柳宗元《捕蛇者说》",
+            "translation": "谁知道赋税的毒害比这蛇更厉害呢"
+          }
+        ],
+        "meaning": "谁/哪个",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "唯大王与群臣孰计议之",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "希望大王和群臣仔细计议这件事"
+          }
+        ],
+        "meaning": "通'熟'，仔细",
+        "usage": "通假"
+      }
+    ],
+    "pinyin": "shú",
+    "type": "实词",
+    "word": "孰"
+  },
+  {
+    "id": "shici_属",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "属予作文以记之",
+            "source": "范仲淹《岳阳楼记》",
+            "translation": "嘱托我写文章来记述这件事"
+          }
+        ],
+        "meaning": "嘱托/嘱咐",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "常有高猿长啸，属引凄异",
+            "source": "郦道元《三峡》",
+            "translation": "常有高猿长啸，声音连续不断凄凉异样"
+          }
+        ],
+        "meaning": "连接/缀辑",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "若属皆且为所虏",
+            "source": "司马迁《鸿门宴》",
+            "translation": "你们这些人都要被他俘虏"
+          }
+        ],
+        "meaning": "类/辈",
+        "usage": "名词"
+      }
+    ],
+    "pinyin": "zhǔ",
+    "type": "实词",
+    "word": "属"
+  },
+  {
+    "id": "shici_率",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "率土之滨，莫非王臣",
+            "source": "《诗经》",
+            "translation": "全天下之内，没有不是王的臣民的"
+          }
+        ],
+        "meaning": "大都/大致",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "率疲弊之卒",
+            "source": "贾谊《过秦论》",
+            "translation": "率领疲惫的士兵"
+          }
+        ],
+        "meaning": "率领/带领",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "shuài",
+    "type": "实词",
+    "word": "率"
+  },
+  {
+    "id": "shici_说",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "为一说，使与书俱",
+            "source": "袁枚《黄生借书说》",
+            "translation": "作一篇说，使它和书一起"
+          }
+        ],
+        "meaning": "说明/解说",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "作师说以贻之",
+            "source": "韩愈《师说》",
+            "translation": "作《师说》来赠给他"
+          }
+        ],
+        "meaning": "说法/主张",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "学而时习之，不亦说乎",
+            "source": "《论语》",
+            "translation": "学了然后按时温习它，不也高兴吗"
+          }
+        ],
+        "meaning": "通'悦'，高兴",
+        "usage": "通假"
+      }
+    ],
+    "pinyin": "shuō",
+    "type": "实词",
+    "word": "说"
+  },
+  {
+    "id": "shici_素",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "素湍绿潭",
+            "source": "郦道元《三峡》",
+            "translation": "白色的急流绿色的深潭"
+          },
+          {
+            "sentence": "可以调素琴，阅金经",
+            "source": "刘禹锡《陋室铭》",
+            "translation": "可以弹奏素琴，阅读佛经"
+          }
+        ],
+        "meaning": "白色的/素白",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "吴广素爱人",
+            "source": "司马迁《陈涉世家》",
+            "translation": "吴广平素爱护别人"
+          },
+          {
+            "sentence": "素善留侯张良",
+            "source": "司马迁《鸿门宴》",
+            "translation": "一向与留侯张良交好"
+          }
+        ],
+        "meaning": "平素/一向",
+        "usage": "副词"
+      }
+    ],
+    "pinyin": "sù",
+    "type": "实词",
+    "word": "素"
+  },
+  {
+    "id": "shici_汤",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "及其日中如探汤",
+            "source": "《两小儿辩日》",
+            "translation": "到了中午就像把手伸进热水里"
+          },
+          {
+            "sentence": "媵人持汤沃灌",
+            "source": "宋濂《送东阳马生序》",
+            "translation": "仆人拿着热水浇洗"
+          }
+        ],
+        "meaning": "热水/开水",
+        "usage": "名词"
+      }
+    ],
+    "pinyin": "tāng",
+    "type": "实词",
+    "word": "汤"
+  },
+  {
+    "id": "shici_涕",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "临表涕零",
+            "source": "诸葛亮《出师表》",
+            "translation": "面对表文泪流满面"
+          },
+          {
+            "sentence": "汪然出涕曰",
+            "source": "柳宗元《捕蛇者说》",
+            "translation": "流泪说道"
+          }
+        ],
+        "meaning": "眼泪",
+        "usage": "名词"
+      }
+    ],
+    "pinyin": "tì",
+    "type": "实词",
+    "word": "涕"
+  },
+  {
+    "id": "shici_亡",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "山东豪俊遂并起而亡秦族矣",
+            "source": "贾谊《过秦论》",
+            "translation": "山东豪俊于是同时起事灭亡了秦朝"
+          }
+        ],
+        "meaning": "灭亡/消亡",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "今亡亦死",
+            "source": "司马迁《陈涉世家》",
+            "translation": "现在逃跑也是死"
+          }
+        ],
+        "meaning": "逃跑/逃亡",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "河曲智叟亡以应",
+            "source": "《列子·愚公移山》",
+            "translation": "河曲智叟没有话来回答"
+          }
+        ],
+        "meaning": "通'无'，没有",
+        "usage": "通假"
+      }
+    ],
+    "pinyin": "wáng",
+    "type": "实词",
+    "word": "亡"
+  },
+  {
+    "id": "shici_王",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "先帝创业未半而中道崩殂",
+            "source": "诸葛亮《出师表》",
+            "translation": "先帝开创大业未完成一半就中途去世"
+          }
+        ],
+        "meaning": "帝王/君王",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "沛公欲王关中",
+            "source": "司马迁《鸿门宴》",
+            "translation": "沛公想在关中称王"
+          }
+        ],
+        "meaning": "称王/统治天下",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "wáng",
+    "type": "实词",
+    "word": "王"
+  },
+  {
+    "id": "shici_望",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "东望武昌",
+            "source": "苏轼《赤壁赋》",
+            "translation": "向东望武昌"
+          },
+          {
+            "sentence": "望之蔚然而深秀者，琅琊也",
+            "source": "欧阳修《醉翁亭记》",
+            "translation": "远远望去草木茂盛又幽深秀丽的，是琅琊山"
+          }
+        ],
+        "meaning": "远看/看",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "先达德隆望尊",
+            "source": "宋濂《送东阳马生序》",
+            "translation": "前辈道德高声望大"
+          }
+        ],
+        "meaning": "名望/声望",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "七月既望",
+            "source": "苏轼《赤壁赋》",
+            "translation": "七月十六日"
+          }
+        ],
+        "meaning": "农历每月十五",
+        "usage": "名词"
+      }
+    ],
+    "pinyin": "wàng",
+    "type": "实词",
+    "word": "望"
+  },
+  {
+    "id": "shici_微",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "微行入古寺",
+            "source": "张溥《五人墓碑记》",
+            "translation": "微服走入古寺"
+          }
+        ],
+        "meaning": "隐蔽/不明显",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "微斯人，吾谁与归",
+            "source": "范仲淹《岳阳楼记》",
+            "translation": "如果没有这样的人，我跟谁同道呢"
+          },
+          {
+            "sentence": "微太子言，臣愿得谒之",
+            "source": "《战国策·荆轲刺秦王》",
+            "translation": "如果没有太子说，臣也希望能前往"
+          }
+        ],
+        "meaning": "如果没有/如果不是",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "微风鼓浪",
+            "source": "苏轼《石钟山记》",
+            "translation": "微风吹起波浪"
+          }
+        ],
+        "meaning": "轻微/微小",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "wēi",
+    "type": "实词",
+    "word": "微"
+  },
+  {
+    "id": "shici_相",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "相去几何",
+            "source": "《老子》",
+            "translation": "相距多远"
+          },
+          {
+            "sentence": "相逢何必曾相识",
+            "source": "白居易《琵琶行》",
+            "translation": "相逢何必曾经相识"
+          }
+        ],
+        "meaning": "互相/彼此",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "儿童相见不相识",
+            "source": "贺知章《回乡偶书》",
+            "translation": "儿童相见不认识我"
+          },
+          {
+            "sentence": "苟富贵，无相忘",
+            "source": "司马迁《陈涉世家》",
+            "translation": "如果富贵了，不要忘记我"
+          }
+        ],
+        "meaning": "表示动作偏指一方，有称代作用",
+        "usage": "代词"
+      }
+    ],
+    "pinyin": "xiāng",
+    "type": "实词",
+    "word": "相"
+  },
+  {
+    "id": "shici_谢",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "旦日不可不蚤自来谢项王",
+            "source": "司马迁《鸿门宴》",
+            "translation": "明天不能不早些亲自来向项王道歉"
+          }
+        ],
+        "meaning": "道歉/认错",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "乃令张良留谢",
+            "source": "司马迁《鸿门宴》",
+            "translation": "于是让张良留下来辞谢"
+          }
+        ],
+        "meaning": "辞别/告辞",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "多谢后世人",
+            "source": "《孔雀东南飞》",
+            "translation": "多多告诉后世人"
+          }
+        ],
+        "meaning": "告诉/劝告",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "xiè",
+    "type": "实词",
+    "word": "谢"
+  },
+  {
+    "id": "shici_信",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "信而见疑，忠而被谤",
+            "source": "司马迁《屈原列传》",
+            "translation": "诚信却被怀疑，忠诚却被诽谤"
+          },
+          {
+            "sentence": "信言不美，美言不信",
+            "source": "《老子》",
+            "translation": "真实的话不漂亮，漂亮的话不真实"
+          }
+        ],
+        "meaning": "诚实/真实",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "信造化之尤物",
+            "source": "陆龟蒙《白莲》",
+            "translation": "确实是造物主的杰作"
+          }
+        ],
+        "meaning": "确实/的确",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "忌不自信",
+            "source": "《邹忌讽齐王纳谏》",
+            "translation": "邹忌不相信自己"
+          }
+        ],
+        "meaning": "相信/信任",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "xìn",
+    "type": "实词",
+    "word": "信"
+  },
+  {
+    "id": "shici_兴",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "政通人和，百废具兴",
+            "source": "范仲淹《岳阳楼记》",
+            "translation": "政事通达人民和顺，各种废弛的事业都兴办起来"
+          }
+        ],
+        "meaning": "兴起/兴办",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "大兴师伐秦",
+            "source": "《史记》",
+            "translation": "大举发兵攻打秦国"
+          }
+        ],
+        "meaning": "发动",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "兴尽晚回舟",
+            "source": "李清照《如梦令》",
+            "translation": "兴致尽了晚上划船回去"
+          }
+        ],
+        "meaning": "兴趣/兴致",
+        "usage": "名词"
+      }
+    ],
+    "pinyin": "xīng",
+    "type": "实词",
+    "word": "兴"
+  },
+  {
+    "id": "shici_修",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "乃重修岳阳楼",
+            "source": "范仲淹《岳阳楼记》",
+            "translation": "于是重新修建岳阳楼"
+          }
+        ],
+        "meaning": "修建/修造",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "内修政理",
+            "source": "陈寿《隆中对》",
+            "translation": "对内整治政务"
+          }
+        ],
+        "meaning": "修理/整治",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "邹忌修八尺有余",
+            "source": "《邹忌讽齐王纳谏》",
+            "translation": "邹忌身高八尺多"
+          }
+        ],
+        "meaning": "长/高",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "xiū",
+    "type": "实词",
+    "word": "修"
+  },
+  {
+    "id": "shici_徐",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "徐而察之",
+            "source": "苏轼《石钟山记》",
+            "translation": "慢慢地观察它"
+          },
+          {
+            "sentence": "清风徐来",
+            "source": "苏轼《赤壁赋》",
+            "translation": "清风慢慢地吹来"
+          }
+        ],
+        "meaning": "慢慢地",
+        "usage": "副词"
+      }
+    ],
+    "pinyin": "xú",
+    "type": "实词",
+    "word": "徐"
+  },
+  {
+    "id": "shici_许",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "宁许以负秦曲",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "宁可答应来使秦国担负理亏的责任"
+          }
+        ],
+        "meaning": "答应/允许",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "潭中鱼可百许头",
+            "source": "柳宗元《小石潭记》",
+            "translation": "潭中的鱼大约有一百来条"
+          }
+        ],
+        "meaning": "表示约数，左右/上下",
+        "usage": "数词"
+      }
+    ],
+    "pinyin": "xǔ",
+    "type": "实词",
+    "word": "许"
+  },
+  {
+    "id": "shici_要",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "张良出，要项伯",
+            "source": "司马迁《鸿门宴》",
+            "translation": "张良出去，邀请项伯"
+          },
+          {
+            "sentence": "便要还家",
+            "source": "陶渊明《桃花源记》",
+            "translation": "就邀请他回到家里"
+          }
+        ],
+        "meaning": "通'邀'，邀请",
+        "usage": "通假"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "北收要害之郡",
+            "source": "贾谊《过秦论》",
+            "translation": "北边收取重要的郡县"
+          }
+        ],
+        "meaning": "重要/紧要",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "yào",
+    "type": "实词",
+    "word": "要"
+  },
+  {
+    "id": "shici_宜",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "将军宜枉驾顾之",
+            "source": "陈寿《隆中对》",
+            "translation": "将军应当屈尊去看望他"
+          }
+        ],
+        "meaning": "应当/应该",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "宜乎百姓之谓我爱也",
+            "source": "《孟子》",
+            "translation": "百姓说我吝啬也是适宜的了"
+          }
+        ],
+        "meaning": "适宜/合适",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "yí",
+    "type": "实词",
+    "word": "宜"
+  },
+  {
+    "id": "shici_遗",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "此三者，吾遗恨也",
+            "source": "欧阳修《伶官传序》",
+            "translation": "这三件事，是我留下的遗憾"
+          }
+        ],
+        "meaning": "遗留/留下",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "是以先帝简拔以遗陛下",
+            "source": "诸葛亮《出师表》",
+            "translation": "因此先帝选拔出来留给陛下"
+          }
+        ],
+        "meaning": "赠送/给予",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "yí",
+    "type": "实词",
+    "word": "遗"
+  },
+  {
+    "id": "shici_贻",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "作《师说》以贻之",
+            "source": "韩愈《师说》",
+            "translation": "写了《师说》来赠给他"
+          },
+          {
+            "sentence": "尝贻余核舟一",
+            "source": "魏学洢《核舟记》",
+            "translation": "曾经赠给我一个核舟"
+          }
+        ],
+        "meaning": "赠送/送给",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "yí",
+    "type": "实词",
+    "word": "贻"
+  },
+  {
+    "id": "shici_易",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "天下事有难易乎",
+            "source": "彭端淑《为学》",
+            "translation": "天下的事情有困难和容易的区别吗"
+          }
+        ],
+        "meaning": "容易/简单",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "愿以十五城请易璧",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "愿意用十五座城来换璧"
+          }
+        ],
+        "meaning": "交换/换取",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "yì",
+    "type": "实词",
+    "word": "易"
+  },
+  {
+    "id": "shici_阴",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "指通豫南，达于汉阴",
+            "source": "《列子·愚公移山》",
+            "translation": "直通豫州南部，到达汉水南面"
+          },
+          {
+            "sentence": "泰山之阳，汶水西流；其阴，济水东流",
+            "source": "姚鼐《登泰山记》",
+            "translation": "泰山的南面，汶水向西流；它的北面，济水向东流"
+          }
+        ],
+        "meaning": "山的北面/水的南面",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "朝晖夕阴",
+            "source": "范仲淹《岳阳楼记》",
+            "translation": "早晨阳光傍晚阴暗"
+          }
+        ],
+        "meaning": "阴暗/阴冷",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "yīn",
+    "type": "实词",
+    "word": "阴"
+  },
+  {
+    "id": "shici_右",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "右手指卷",
+            "source": "魏学洢《核舟记》",
+            "translation": "右手指着画卷"
+          }
+        ],
+        "meaning": "右边/右手",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "位在廉颇之右",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "位次在廉颇之上"
+          }
+        ],
+        "meaning": "古代尊崇右，表高位",
+        "usage": "名词"
+      }
+    ],
+    "pinyin": "yòu",
+    "type": "实词",
+    "word": "右"
+  },
+  {
+    "id": "shici_再",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "一鼓作气，再而衰，三而竭",
+            "source": "《左传·曹刿论战》",
+            "translation": "第一次击鼓振作士气，第二次击鼓士气衰弱，第三次击鼓士气竭尽"
+          },
+          {
+            "sentence": "后秦击赵者再，李牧连却之",
+            "source": "苏洵《六国论》",
+            "translation": "后来秦国攻击赵国两次，李牧连续打退了它"
+          }
+        ],
+        "meaning": "第二次/两次",
+        "usage": "副词"
+      }
+    ],
+    "pinyin": "zài",
+    "type": "实词",
+    "word": "再"
+  },
+  {
+    "id": "shici_造",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "径造庐访成",
+            "source": "蒲松龄《促织》",
+            "translation": "直接到家中拜访成名"
+          }
+        ],
+        "meaning": "到……去/前往",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "因造玉清宫，伐山取材",
+            "source": "沈括《梦溪笔谈》",
+            "translation": "因为建造玉清宫，伐山取材"
+          }
+        ],
+        "meaning": "制造/制作",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "zào",
+    "type": "实词",
+    "word": "造"
+  },
+  {
+    "id": "shici_知",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "人不知而不愠",
+            "source": "《论语》",
+            "translation": "别人不了解我但我也不生气"
+          },
+          {
+            "sentence": "孰为汝多知乎",
+            "source": "《两小儿辩日》",
+            "translation": "谁说你知识丰富呢"
+          }
+        ],
+        "meaning": "知道/懂得",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "其真不知马也",
+            "source": "韩愈《马说》",
+            "translation": "恐怕是真的不识千里马"
+          }
+        ],
+        "meaning": "识别/分辨",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "则知明而行无过矣",
+            "source": "荀子《劝学》",
+            "translation": "那么智慧明达行为就没有过错了"
+          }
+        ],
+        "meaning": "通'智'，智慧",
+        "usage": "通假"
+      }
+    ],
+    "pinyin": "zhī",
+    "type": "实词",
+    "word": "知"
+  },
+  {
+    "id": "shici_致",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "家贫，无从致书以观",
+            "source": "宋濂《送东阳马生序》",
+            "translation": "家里贫穷，没有办法得到书来看"
+          }
+        ],
+        "meaning": "取得/得到",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "以致天下之士",
+            "source": "贾谊《过秦论》",
+            "translation": "来招引天下的人才"
+          }
+        ],
+        "meaning": "招致/引来",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "听妇前致词",
+            "source": "杜甫《石壕吏》",
+            "translation": "听老妇上前表达"
+          }
+        ],
+        "meaning": "表达/传达",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "zhì",
+    "type": "实词",
+    "word": "致"
+  },
+  {
+    "id": "shici_质",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "非天质之卑",
+            "source": "宋濂《送东阳马生序》",
+            "translation": "不是天资低下"
+          }
+        ],
+        "meaning": "资质/天性",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "余立侍左右，援疑质理",
+            "source": "宋濂《送东阳马生序》",
+            "translation": "我站在旁边侍候，提出疑难询问道理"
+          }
+        ],
+        "meaning": "质问/对质",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "zhì",
+    "type": "实词",
+    "word": "质"
+  },
+  {
+    "id": "shici_治",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "治国之道",
+            "source": "《管子》",
+            "translation": "治理国家的方法"
+          }
+        ],
+        "meaning": "治理/管理",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "君有疾在腠理，不治将恐深",
+            "source": "《韩非子·扁鹊见蔡桓公》",
+            "translation": "您有病在皮肤纹理间，不治将恐怕加深"
+          }
+        ],
+        "meaning": "医治/治疗",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "zhì",
+    "type": "实词",
+    "word": "治"
+  },
+  {
+    "id": "shici_诸",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "诸将皆失色",
+            "source": "司马迁《鸿门宴》",
+            "translation": "众将领都变了脸色"
+          },
+          {
+            "sentence": "诸郡县苦秦吏者",
+            "source": "司马迁《陈涉世家》",
+            "translation": "各郡县苦于秦朝官吏的人"
+          }
+        ],
+        "meaning": "各/众",
+        "usage": "代词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "投诸渤海之尾",
+            "source": "《列子·愚公移山》",
+            "translation": "把它扔到渤海的边上"
+          }
+        ],
+        "meaning": "相当于'之于'",
+        "usage": "兼词"
+      }
+    ],
+    "pinyin": "zhū",
+    "type": "实词",
+    "word": "诸"
+  },
+  {
+    "id": "shici_卒",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "率疲弊之卒",
+            "source": "贾谊《过秦论》",
+            "translation": "率领疲惫的士兵"
+          },
+          {
+            "sentence": "信臣精卒陈利兵而谁何",
+            "source": "贾谊《过秦论》",
+            "translation": "忠臣精兵陈列着锋利的兵器盘问来往的人"
+          }
+        ],
+        "meaning": "士兵",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "卒相与欢",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "终于互相和好"
+          }
+        ],
+        "meaning": "终于/终究",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "五万兵难卒合",
+            "source": "司马迁《赤壁之战》",
+            "translation": "五万兵难以仓促集合"
+          }
+        ],
+        "meaning": "通'猝'，突然/仓促",
+        "usage": "通假"
+      }
+    ],
+    "pinyin": "zú",
+    "type": "实词",
+    "word": "卒"
+  },
+  {
+    "id": "shici_贼",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "操虽托名汉相，其实汉贼也",
+            "source": "司马迁《赤壁之战》",
+            "translation": "曹操虽然名义上是汉相，实际上是汉贼"
+          }
+        ],
+        "meaning": "强盗/叛贼",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "二人相憎，而欲相贼也",
+            "source": "《韩非子》",
+            "translation": "两个人互相憎恨，而想互相伤害"
+          }
+        ],
+        "meaning": "杀害/伤害",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "zéi",
+    "type": "实词",
+    "word": "贼"
+  },
+  {
+    "id": "shici_族",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "山东豪俊遂并起而亡秦族矣",
+            "source": "贾谊《过秦论》",
+            "translation": "山东豪俊于是同时起事灭亡了秦朝宗族"
+          }
+        ],
+        "meaning": "家族/宗族",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "族秦者秦也",
+            "source": "杜牧《阿房宫赋》",
+            "translation": "使秦国灭族的是秦国自己"
+          }
+        ],
+        "meaning": "灭族",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "zú",
+    "type": "实词",
+    "word": "族"
+  },
+  {
+    "id": "shici_走",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "兔走触株，折颈而死",
+            "source": "《韩非子·五蠹》",
+            "translation": "兔子跑着撞到树桩上，折断脖子死了"
+          },
+          {
+            "sentence": "老翁逾墙走",
+            "source": "杜甫《石壕吏》",
+            "translation": "老翁翻墙逃走"
+          }
+        ],
+        "meaning": "跑/逃跑",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "zǒu",
+    "type": "实词",
+    "word": "走"
+  },
+  {
+    "id": "shici_左",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "左顾右盼",
+            "source": "成语",
+            "translation": "向左看向右看"
+          }
+        ],
+        "meaning": "左边/左侧",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "迁客骚人",
+            "source": "范仲淹《岳阳楼记》",
+            "translation": "被贬谪的官员"
+          }
+        ],
+        "meaning": "古代尊右卑左，左表贬谪",
+        "usage": "名词"
+      }
+    ],
+    "pinyin": "zuǒ",
+    "type": "实词",
+    "word": "左"
+  },
+  {
+    "id": "shici_坐",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "项王、项伯东向坐",
+            "source": "司马迁《鸿门宴》",
+            "translation": "项王、项伯面向东坐"
+          },
+          {
+            "sentence": "口技人坐屏障中",
+            "source": "林嗣环《口技》",
+            "translation": "口技艺人坐在屏障中"
+          }
+        ],
+        "meaning": "坐下",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "坐盗",
+            "source": "《晏子春秋》",
+            "translation": "因偷盗被定罪"
+          },
+          {
+            "sentence": "来归相怨怒，但坐观罗敷",
+            "source": "《陌上桑》",
+            "translation": "回来互相抱怨，只是因为看罗敷"
+          }
+        ],
+        "meaning": "犯罪/定罪",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "zuò",
+    "type": "实词",
+    "word": "坐"
+  },
+  {
+    "id": "shici_行",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "三人行，必有我师焉",
+            "source": "《论语》",
+            "translation": "几个人一起走，其中一定有可以做我老师的人"
+          },
+          {
+            "sentence": "跬步而不行",
+            "source": "荀子《劝学》",
+            "translation": "半步却不迈出"
+          }
+        ],
+        "meaning": "行走/出行",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "君子坦荡荡，小人长戚戚，行矣",
+            "source": "《论语》",
+            "translation": "君子心胸开阔，小人经常忧愁，品行如此"
+          },
+          {
+            "sentence": "其行廉，其志洁",
+            "source": "司马迁《屈原列传》",
+            "translation": "他的行为廉洁，他的志向高洁"
+          }
+        ],
+        "meaning": "行为/品行",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "行将为人所并",
+            "source": "司马迁《赤壁之战》",
+            "translation": "将要被别人吞并"
+          }
+        ],
+        "meaning": "将要/将",
+        "usage": "副词"
+      }
+    ],
+    "pinyin": "xíng",
+    "type": "实词",
+    "word": "行"
+  },
+  {
+    "id": "shici_发",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "见其发矢十中八九",
+            "source": "欧阳修《卖油翁》",
+            "translation": "看到他射箭十中八九"
+          },
+          {
+            "sentence": "发闾左谪戍渔阳九百人",
+            "source": "司马迁《陈涉世家》",
+            "translation": "征发贫民去戍守渔阳九百人"
+          }
+        ],
+        "meaning": "发出/发射",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "忽闻水上琵琶声，主人忘归客不发",
+            "source": "白居易《琵琶行》",
+            "translation": "忽然听到水上传来琵琶声，主人忘了回去客人也不出发了"
+          }
+        ],
+        "meaning": "出发/启程",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "发图，图穷而匕首见",
+            "source": "《战国策·荆轲刺秦王》",
+            "translation": "打开地图，地图展开到最后露出了匕首"
+          }
+        ],
+        "meaning": "打开/拨开",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "野芳发而幽香",
+            "source": "欧阳修《醉翁亭记》",
+            "translation": "野花开放散发清幽的香气"
+          }
+        ],
+        "meaning": "显露/表现",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "fā",
+    "type": "实词",
+    "word": "发"
+  },
+  {
+    "id": "shici_过",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "臣请过视之",
+            "source": "司马迁《鸿门宴》",
+            "translation": "请允许我过去看看他"
+          },
+          {
+            "sentence": "雷廷玉过而闻之",
+            "source": "蒲松龄《促织》",
+            "translation": "雷廷玉经过听到了"
+          }
+        ],
+        "meaning": "经过/路过",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "平原君过之",
+            "source": "司马迁《平原君虞卿列传》",
+            "translation": "平原君去拜访他"
+          }
+        ],
+        "meaning": "拜访/探望",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "过而能改，善莫大焉",
+            "source": "《左传》",
+            "translation": "有过错能改正，没有比这更好的了"
+          },
+          {
+            "sentence": "闻过则喜",
+            "source": "《孟子》",
+            "translation": "听到自己的过错就很高兴"
+          }
+        ],
+        "meaning": "过失/错误",
+        "usage": "名词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "从此道至吾军，不过二十里耳",
+            "source": "司马迁《鸿门宴》",
+            "translation": "从这条路到我军营，不超过二十里"
+          }
+        ],
+        "meaning": "超过/胜过",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "guò",
+    "type": "实词",
+    "word": "过"
+  },
+  {
+    "id": "shici_好",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "秦氏有好女",
+            "source": "《陌上桑》",
+            "translation": "秦家有个美丽的女子"
+          },
+          {
+            "sentence": "好雨知时节",
+            "source": "杜甫《春夜喜雨》",
+            "translation": "好雨知道下雨的节气"
+          }
+        ],
+        "meaning": "美好/好看",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "好读书，不求甚解",
+            "source": "陶渊明《五柳先生传》",
+            "translation": "喜欢读书，但不求深入理解"
+          },
+          {
+            "sentence": "敏而好学",
+            "source": "《论语》",
+            "translation": "聪敏又好学"
+          }
+        ],
+        "meaning": "喜欢/爱好（hào）",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "二人相好",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "两人关系友好"
+          }
+        ],
+        "meaning": "友好/和睦",
+        "usage": "形容词"
+      }
+    ],
+    "pinyin": "hǎo",
+    "type": "实词",
+    "word": "好"
+  },
+  {
+    "id": "shici_会",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "会于会稽山阴之兰亭",
+            "source": "王羲之《兰亭集序》",
+            "translation": "在会稽山阴的兰亭聚会"
+          },
+          {
+            "sentence": "迁客骚人，多会于此",
+            "source": "范仲淹《岳阳楼记》",
+            "translation": "被贬的官员和诗人，多在这里聚会"
+          }
+        ],
+        "meaning": "相会/聚会",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "会天大雨，道不通",
+            "source": "司马迁《陈涉世家》",
+            "translation": "恰好天下大雨，道路不通"
+          },
+          {
+            "sentence": "会使辙交驰",
+            "source": "文天祥《〈指南录〉后序》",
+            "translation": "正逢使者车马往来频繁"
+          }
+        ],
+        "meaning": "恰好/正好",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "吾已失恩义，会不相从许",
+            "source": "《孔雀东南飞》",
+            "translation": "我已经失去了恩义，一定不会答应你"
+          }
+        ],
+        "meaning": "一定/应当",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "好读书，不求甚解，每有会意",
+            "source": "陶渊明《五柳先生传》",
+            "translation": "喜欢读书，不求深入理解，每次有体会"
+          }
+        ],
+        "meaning": "领会/理解",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "huì",
+    "type": "实词",
+    "word": "会"
+  },
+  {
+    "id": "shici_加",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "登高而招，臂非加长也",
+            "source": "荀子《劝学》",
+            "translation": "登高招手，手臂并没有加长"
+          },
+          {
+            "sentence": "万钟于我何加焉",
+            "source": "《孟子》",
+            "translation": "优厚的俸禄对我有什么增加呢"
+          }
+        ],
+        "meaning": "增加/添加",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "大王加惠",
+            "source": "《战国策》",
+            "translation": "大王施加恩惠"
+          },
+          {
+            "sentence": "弗敢加也",
+            "source": "《左传·曹刿论战》",
+            "translation": "不敢虚夸"
+          }
+        ],
+        "meaning": "施加/强加",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "邻国之民不加少，寡人之民不加多",
+            "source": "《孟子》",
+            "translation": "邻国的百姓不更少，我的百姓不更多"
+          }
+        ],
+        "meaning": "更加/越发",
+        "usage": "副词"
+      }
+    ],
+    "pinyin": "jiā",
+    "type": "实词",
+    "word": "加"
+  },
+  {
+    "id": "shici_临",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "临不测之渊",
+            "source": "司马迁《刺客列传》",
+            "translation": "面对深不可测的深渊"
+          },
+          {
+            "sentence": "如临深渊",
+            "source": "《诗经》",
+            "translation": "好像面临深渊"
+          }
+        ],
+        "meaning": "面对/面临",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "临城下",
+            "source": "司马迁《陈涉世家》",
+            "translation": "到达城下"
+          }
+        ],
+        "meaning": "到/靠近",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "临溪而渔",
+            "source": "欧阳修《醉翁亭记》",
+            "translation": "到溪边钓鱼"
+          },
+          {
+            "sentence": "郦元之所见闻，殆与余同，而言之不详；士大夫终不肯以小舟夜泊绝壁之下，故莫能知；而渔工水师虽知而不能言",
+            "source": "苏轼《石钟山记》",
+            "translation": ""
+          }
+        ],
+        "meaning": "从上往下看",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "临帖",
+            "source": "书法术语",
+            "translation": "照着字帖摹仿写字"
+          }
+        ],
+        "meaning": "照着摹仿",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "lín",
+    "type": "实词",
+    "word": "临"
+  },
+  {
+    "id": "shici_强",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "秦强而赵弱",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "秦国强大而赵国弱小"
+          },
+          {
+            "sentence": "弱固不可以敌强",
+            "source": "司马迁《赤壁之战》",
+            "translation": "弱小本来不能对抗强大"
+          }
+        ],
+        "meaning": "强大/强有力",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "筋骨之强",
+            "source": "荀子《劝学》",
+            "translation": "筋骨强壮"
+          }
+        ],
+        "meaning": "强壮/健壮",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "少年固强之",
+            "source": "蒲松龄《促织》",
+            "translation": "少年一再勉强他"
+          },
+          {
+            "sentence": "非夫人之物而强假焉",
+            "source": "袁枚《黄生借书说》",
+            "translation": "不是那人的东西却勉强借来"
+          }
+        ],
+        "meaning": "勉强（qiǎng）",
+        "usage": "副词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "不可强以饮酒",
+            "source": "《史记》",
+            "translation": "不能勉强他喝酒"
+          }
+        ],
+        "meaning": "逞强/坚持",
+        "usage": "动词"
+      }
+    ],
+    "pinyin": "qiáng",
+    "type": "实词",
+    "word": "强"
+  },
+  {
+    "id": "shici_恶",
+    "meanings": [
+      {
+        "examples": [
+          {
+            "sentence": "廉君宣恶言",
+            "source": "司马迁《廉颇蔺相如列传》",
+            "translation": "廉君散布坏话"
+          },
+          {
+            "sentence": "境界危恶，层见错出",
+            "source": "文天祥《〈指南录〉后序》",
+            "translation": "处境危险恶劣，层层出现"
+          }
+        ],
+        "meaning": "坏的/丑陋的",
+        "usage": "形容词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "死亦我所恶",
+            "source": "《孟子》",
+            "translation": "死也是我所厌恶的"
+          },
+          {
+            "sentence": "所恶有甚于死者",
+            "source": "《孟子》",
+            "translation": "所厌恶的还有比死更严重的"
+          }
+        ],
+        "meaning": "厌恶/讨厌（wù）",
+        "usage": "动词"
+      },
+      {
+        "examples": [
+          {
+            "sentence": "恶得不禁恶而劝爱",
+            "source": "《墨子》",
+            "translation": "怎么能不禁止厌恶而鼓励相爱呢"
+          }
+        ],
+        "meaning": "怎么/哪里（wū）",
+        "usage": "副词"
+      }
+    ],
+    "pinyin": "è",
+    "type": "实词",
+    "word": "恶"
+  }
+]
